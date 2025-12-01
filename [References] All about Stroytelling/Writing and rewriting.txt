@@ -1,0 +1,4054 @@
+
+
+Title: Writing and rewriting
+
+Author: George Carver
+        Thomas A. Knott
+        William S. Maulsby
+
+Release date: January 15, 2025 [eBook #75117]
+
+Language: English
+
+Original publication: New York: Harcourt, Brace and Company, 1923
+
+Credits: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/American Libraries.)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK WRITING AND REWRITING ***
+
+
+
+
+
+
+                          WRITING AND REWRITING
+
+                                    BY
+                              GEORGE CARVER
+                            WILLIAM S. MAULSBY
+                             THOMAS A. KNOTT
+                          THE UNIVERSITY OF IOWA
+
+                              [Illustration]
+
+                                 NEW YORK
+                       HARCOURT, BRACE AND COMPANY
+
+                           COPYRIGHT, 1923, BY
+                    HARCOURT, BRACE AND COMPANY, INC.
+
+                          PRINTED IN THE U.S.A.
+
+
+
+
+                                    TO
+                              THE MEMORY OF
+                              J. SCOTT CLARK
+
+
+
+
+CONTENTS
+
+
+  CHAPTER                              PAGE
+
+          INDEX TO ADMONITIONS           ix
+
+       I. WHY LEARN TO WRITE              1
+
+      II. HOW TO WRITE                    7
+
+     III. IDEAS FOR COMPOSITIONS         12
+
+      IV. THE WHOLE COMPOSITION          17
+
+       V. THE PARAGRAPH                  31
+
+      VI. GRAMMAR                        42
+
+     VII. SENTENCE CORRECTNESS           58
+
+    VIII. SENTENCE CLEARNESS             88
+
+      IX. SENTENCE VIGOR                100
+
+       X. WORDS                         114
+
+      XI. SPELLING                      132
+
+     XII. PUNCTUATION                   139
+
+    XIII. MECHANICS                     151
+
+
+
+
+TO INSTRUCTORS
+
+
+_Writing and Rewriting_ is based on the conviction that college freshmen
+can be taught to see and to correct their own errors and faults.
+
+Criticism by means of marginal numbers, referring to pieces of advice
+in a rhetoric or a manual, has long been utilized to economize the
+instructor’s time. It has not been generally realized, however, that
+this method, which requires the student to inspect and rewrite a faulty
+sentence in the light of an illustration in his book, is successful
+also in teaching him to rewrite faulty sentences before he submits his
+manuscript to his instructor.
+
+The best device to encourage the student in self-correction is the
+preliminary copy or rough draft. This may be written rapidly in pencil on
+theme paper or on scratch paper, with lines far apart to leave room for
+modifications. After this is written the student should read it with his
+eyes open for the appearance of his pet blunders, and should do his own
+rewriting. If the rough draft is submitted with the finished copy, the
+instructor can discover whether the student is endeavoring to correct his
+own faults.
+
+The best way to use _Writing and Rewriting_ in class is to copy the
+faulty passages or to clip and paste them on cards. In class the student,
+using only the slip, may then be required to write the correct version on
+the blackboard, later reciting and specifying the fault, or the principle
+of style which is violated.
+
+In colleges where the marginal numbering of errors and faults is
+supplemented by personal conferences, the swiftest improvement will
+be found to follow the practice of requiring the student, before the
+conference, to copy his faulty passages on a new sheet of theme paper, to
+copy also the admonition indicated by the marginal number, and to rewrite
+each passage in accordance with the admonition. A file of these sheets
+will reveal whether the student is improving or standing still.
+
+_Writing and Rewriting_ has several relatively novel features. Chapters
+IV and V make it possible to criticize by marginal numbers the most
+common violations of the principles of the whole composition and of the
+paragraph. Although the admonitions criticize faults, the book contains
+few “don’ts.” Instead, the advice given is positive, constructive, and
+concrete. Each number refers to only a single fault. Few admonitions
+fill more than two lines of type. It has thus been possible to insert a
+criticism of every fundamental fault found in freshman themes. Probably
+every number ought to be used at least once in every hundred themes. The
+division of sentence criticisms into chapters on Correctness, Clearness,
+and Vigor is logical and obvious. The numbering of admonitions is not
+consecutive, but a new hundred begins with each chapter as a help in
+more quickly locating the number desired. Additional copies of the index
+to the admonitions will be furnished free on request to instructors who
+wish to paste it on a sheet of cardboard to facilitate their work in
+criticizing themes. The list of suggestions for subjects is a compilation
+of the practices of many successful teachers.
+
+
+
+
+INDEX TO ADMONITIONS
+
+
+                          The Whole Composition
+
+    100. Opening devices
+
+    101. Point of view
+
+    102. What to include
+
+    103. Distraction
+
+    104. Serious tone
+
+    105. Light tone
+
+    106. Sequence
+
+    107. Chronological order
+
+    108. Position
+
+    109. Abstract to concrete
+
+    110. Summary to detail
+
+    111. Important to less so
+
+    112. Familiar to unfamiliar
+
+    113. Climax
+
+    114. Welding
+
+    115. Connectives
+
+    116. Repetition
+
+    117. Recapitulation
+
+    118. Division
+
+    119. Space emphasis
+
+    120. Place emphasis
+
+    121. Conclusion
+
+    122. Title
+
+    123. Plan
+
+    124. Revision by plan
+
+    125. Practice
+
+                              The Paragraph
+
+    200. Indention
+
+    201. Partly blank line
+
+    202. No indention
+
+    203. Conversation
+
+    204. Combination
+
+    205. Separation
+
+    206. Violent break
+
+    207. Irrelevant ideas
+
+    208. Topic sentence
+
+    209. Arrangement
+
+    210. Connectives
+
+    211. Linking
+
+    212. Shift in number
+
+    213. Shift in person
+
+    214. Shift in tense
+
+    215. Shift in voice
+
+    216. Shift in mood
+
+    217. Place emphasis
+
+    218. Space emphasis
+
+    219. Practice
+
+                        Sentence Correctness Case
+
+    300. Subject in nominative
+
+    301. _Who_ as subject
+
+    302. _Who_ as subject after verb
+
+    303. Predicate nominative
+
+    304. Pronoun in apposition
+
+    305. Pronoun after _as_, _than_
+
+    306. Possessive with gerund
+
+    307. “Neuter” nouns not in possessive
+
+    308. Objective case
+
+    309. Objective with infinitive
+
+    310. Objective after infinitive
+
+                                Agreement
+
+    311. _This kind_
+
+    312. Pronoun with antecedent
+
+    313. Verb with subject
+
+    314. Verb with _each_, _none_
+
+    315. Compound subject
+
+    316. Nouns with _or_
+
+    317. Collective nouns
+
+    318. Incorrect attraction
+
+    319. _There is_, _there are_
+
+    320. _Besides_, _with_
+
+    321. Nearer of two nouns
+
+    322. _Who_, _which_
+
+    323. Not with predicated noun
+
+    324. _Don’t_
+
+    325. Past and past participle
+
+    326. Correct principal parts
+
+    327. _Lie-lay_, _sit-set_, _rise-raise_
+
+                             Shall and Will
+
+    328. _Shall_ and _will_
+
+    329. _Should_ and _would_
+
+    330. Questions
+
+    331. Determination
+
+    332. Parallel tenses
+
+    333. Universal present
+
+    334. Subordinate clause
+
+    335. Infinitive
+
+    336. Adverb of time
+
+    337. Contrary to fact subjunctive
+
+    338. _Have_, not _of_
+
+    339. _Had ought_
+
+                                Fragments
+
+    340. Fragments
+
+    341. Phrases
+
+    342. Participial phrases
+
+    343. Clauses
+
+    344. Part of compound subject
+
+    345. Part of compound predicate
+
+                        Incomplete Constructions
+
+    346. Unfinished construction
+
+    347. Give verb subject
+
+    348. Insert word
+
+    349. Insert material
+
+    350. Elements without construction
+
+    351. Insert _that_ after _say_, _feel_
+
+    352. Insert _that of_
+
+    353. Insert _as_ after positive adjective
+
+    354. Insert _much_ after _very_
+
+    355. Repeat verb
+
+    356. Repeat auxiliary
+
+    357. Repeat _is_, _was_
+
+    358. Repeat verb after auxiliaries
+
+                        Inaccurate Constructions
+
+    359. Correct conjunction
+
+    360. Insert transitional element
+
+    361. Shifted construction
+
+    362. _One of the most_
+
+    363. Exact predication
+
+    364. Idiomatic verb
+
+    365. Idiomatic preposition
+
+    366. Different preposition
+
+    367. Idiom
+
+    368. Awkwardness
+
+    369. _Is where_, _is when_
+
+    370. _Is because_
+
+    371. _The fact that_
+
+    372. _Due to_, _owing to_
+
+    373. _Because of_, _on account of_
+
+    374. Omit _and_
+
+    375. Omit irrelevancy
+
+    376. Redundant _that_
+
+    377. Change participial phrase
+
+    378. _Of_-phrase with verbal noun
+
+    379. _Of_-phrase with abstract verbal noun
+
+    380. Separate main clauses
+
+    381. Join elements with _and_
+
+    382. Join clauses with _and_
+
+    383. Modifiers together
+
+    384. Double negative
+
+    385. _Or_, not _nor_
+
+    386. _Not hardly_
+
+    387. Adverb, not adjective
+
+    388. Predicated adjectives
+
+    389. _Who_, _which_, _that_
+
+                           Sentence Clearness
+
+    400. Obvious antecedent
+
+    401. Position of pronoun
+
+    402. Ambiguous antecedent in indirect discourse
+
+    403. Antecedent in parentheses
+
+    404. Repeat distant noun
+
+    405. Unemphatic antecedent
+
+    406. Place of _only_, etc.
+
+    407. Place of negative
+
+    408. Use of correlatives
+
+    409. Place of correlatives
+
+    410. Place of subordinate clause
+
+    411. Place of relative clause
+
+    412. Confused verbs
+
+    413. Place of modifiers
+
+    414. Co-ordinate modifiers
+
+    415. Participial phrases
+
+    416. Participle with _thus_
+
+    417. Participle with conjunction
+
+    418. Adjective _due_
+
+    419. Gerund prepositional phrase
+
+    420. Repeat subordinating conjunction
+
+    421. Repeat auxiliary verbs
+
+    422. Repeat _to_ with the infinitive
+
+    423. Repeat preposition with object
+
+    424. Repeat article with noun
+
+    425. Repeat possessive with noun
+
+    426. Parallel structure
+
+    427. Summarizing word
+
+    428. Use of _and_
+
+    429. Use of _but_
+
+    430. Comparative degree
+
+    431. Superlative degree
+
+    432. Shift in person
+
+    433. Shift in number
+
+    434. Shift in tense
+
+    435. Shift in mood
+
+    436. Shift in voice
+
+                             Sentence Vigor
+
+    500. Isolate
+
+    501. Separate
+
+    502. Condense
+
+    503. Combine
+
+    504. Vary structure
+
+    505. Vary beginning
+
+    506. Vary length
+
+    507. Loose to periodic
+
+    508. Striking ending
+
+    509. Climax
+
+    510. Emphatic position
+
+    511. Group related elements
+
+    512. Main ideas
+
+    513. Subordinate ideas
+
+    514. Simplicity
+
+    515. Far-fetched synonyms
+
+    516. Concreteness
+
+    517. Parallel structure
+
+    518. Repeat for emphasis
+
+    519. Monotonous repetition
+
+    520. Tautology
+
+    521. Pleonasm
+
+    522. Word in double sense
+
+    523. Consistent metaphors
+
+    524. Incongruous metaphors
+
+    525. Rhythm
+
+    526. Balanced sentence
+
+    527. Vivid predicate
+
+    528. Unemphatic passive voice
+
+    529. Awkward absolute phrase
+
+    530. Successive subordinations
+
+    531. Successive _but_ and _for_ clauses
+
+                                  Words
+
+    600. See dictionary
+
+    601. Words almost alike
+
+    602. Exactness
+
+    603. New words
+
+    604. Verbs as nouns
+
+    605. Slang
+
+    606. Harmony
+
+    607. Poetical words
+
+    608. Hackneyed expressions
+
+    609. Pretentious expressions
+
+    610. Contractions
+
+    611. Editorial _we_
+
+    612. Simple pronouns
+
+    613. Speaking of husband or wife
+
+    614. Illiterate usage
+
+    615. Reputable words
+
+    616. Present words
+
+    617. National words
+
+    618. Plural abstract nouns
+
+                                Spelling
+
+    700. Doubling consonants
+
+    701. Single consonants
+
+    702. Final silent _-e_
+
+    703. _-ce_ and _-ge_
+
+    704. Single consonant after double vowel
+
+    705. CEI
+
+    706. EI as _ī_ and as _ā_
+
+    707. IE
+
+    708. Plurals in vowel and _-y_
+
+    709. Verbs in vowel and _-y_
+
+    710. Plurals in consonants and _-y_
+
+    711. Plurals in _-ves_
+
+    712. Foreign plurals
+
+    713. _Don’t_, _won’t_, _can’t_
+
+    714. _It’s_
+
+    715. _Its_, _yours_, _hers_
+
+    716. Spelling list
+
+                               Punctuation
+
+                            Use period after:
+
+    800. Declarative and imperative sentences
+
+    801. Abbreviations
+
+                            No period after:
+
+    802. Incomplete sentence elements
+
+                        Use question mark after:
+
+    803. Direct questions
+
+    804. Doubtful expressions
+
+                         No question mark after:
+
+    805. Indirect questions
+
+                      Use exclamation point after:
+
+    806. Exclamatory expressions
+
+                            Use commas with:
+
+    807. Co-ordinate clauses with _and_ or _but_
+
+    808. Conjunction _for_
+
+    809. Parallel clauses
+
+    810. Dependent clause preceding
+
+    811. Descriptive clauses
+
+    812. Interchangeable adjectives
+
+    813. Words, phrases, clauses in series
+
+    814. _And_ in a series
+
+    815. Confused elements
+
+    816. Names in direct address
+
+    817. Appositives
+
+    818. Geographical names
+
+    819. Dates
+
+    820. Absolute phrases
+
+    821. Interjections and parenthetical expressions
+
+    822. Direct quotations
+
+                           Never use a comma:
+
+    823. Between noun and its adjective
+
+    824. Around limiting clauses or phrases
+
+    825. With series of non-interchangeable adjectives
+
+    826. To indicate a pause
+
+    827. Before _that_ in indirect discourse
+
+    828. Between unjoined main clauses
+
+                        Use a semicolon between:
+
+    829. Unjoined main clauses
+
+    830. Clauses joined by _however_, etc.
+
+    831. Long or complicated clauses
+
+                         Never use a semicolon:
+
+    832. Between clauses not co-ordinate
+
+    833. After salutation in a letter
+
+                        Use a colon to introduce:
+
+    834. Formal list of words, etc.
+
+                           Use a hyphen with:
+
+    835. Fractions or numbers less than 100
+
+    836. Titles of two or more words
+
+    837. Divided words
+
+    838. Compound adjectives
+
+    839. Prefixes like _co-_ etc.
+
+                            Use a dash with:
+
+    840. Broken thought
+
+    841. Informal parenthetical material
+
+    842. Summarizing expressions
+
+                            Never use a dash:
+
+    843. Instead of a period
+
+    844. Instead of a comma
+
+                        Use quotation marks with:
+
+    845. Direct discourse
+
+    846. Borrowed material
+
+    847. Quotation of more than one paragraph
+
+    848. Quotation within quotation
+
+    849. Quotation within second quotation
+
+    850. Quotation ending with comma or period
+
+                     Never use quotation marks with:
+
+    851. Names of books, etc.
+
+                           Use an apostrophe:
+
+    852. In contractions
+
+    853. With singular possessives
+
+    854. With plural possessives
+
+                        Never use an apostrophe:
+
+    855. With possessive pronouns
+
+                       Use parentheses to inclose:
+
+    856. Material foreign to unit of composition
+
+    857. Confirmatory figures
+
+                    Never use parentheses to inclose:
+
+    858. Cancelled words
+
+                        Use brackets to inclose:
+
+    859. Explanatory material in quotation
+
+    860. Practice
+
+                                Mechanics
+
+    900. One side of paper
+
+    901. Place of title
+
+    902. Blank second line
+
+    903. Write legibly
+
+    904. Number pages
+
+    905. Spacing
+
+    906. Divided words
+
+    907. Place of hyphen
+
+    908. Margins
+
+    909. Indention
+
+    910. Below last line
+
+    911. Underscoring
+
+    912. Underscoring for emphasis
+
+    913. To indicate footnote
+
+    914. Place of footnote
+
+    915. No abbreviation
+
+                             Capitalization
+
+    916. Proper nouns and pronouns
+
+    917. First word in sentence
+
+    918. First word in line of verse
+
+    919. Direct quotation
+
+    920. Names of social bodies, etc.
+
+    921. Reference to Deity
+
+    922. _I_ and _O_
+
+    923. Titles of books, etc.
+
+    924. Titles with names
+
+    925. Names of months, etc.
+
+                                 Figures
+
+    926. Word double numbers
+
+    927. Word sums in double numbers
+
+    928. Number sums in dollars and cents
+
+    929. Word sums less than one dollar
+
+    930. Word numbers as names
+
+    931. Beginning with figures
+
+    932. Sums as adjectives
+
+                                 Letters
+
+    933. Letter heading
+
+    934. Business letter salutation
+
+    935. Personal letter salutation
+
+    936. Close of business letter
+
+    937. Close of personal letter
+
+    938. Envelope address
+
+    939. Punctuation of address
+
+    940. Formal note
+
+    941. Signature
+
+
+
+
+WRITING AND REWRITING
+
+
+
+
+CHAPTER I
+
+WHY LEARN TO WRITE
+
+
+The four main reasons for learning to write are:
+
+1. Writing is one of the best ways to make other persons think or feel as
+you do.
+
+2. Every educated person is judged frequently and severely by the
+correctness and skill displayed in his writing.
+
+3. The more you learn about writing the more you will enjoy reading.
+
+4. Good writing gives pleasure, not only to the reader but also to the
+writer.
+
+       *       *       *       *       *
+
+1. The ability to write clearly and convincingly will be of great help
+to you after you leave college. Whatever your field of activity, your
+ultimate success will depend in some degree on your ability to make other
+persons think or feel as you do. Writing is one of the best ways to
+attain this end.
+
+Many professional men and women find that success depends not only on
+their knowledge, but even more on the skill and clearness with which
+they can present their knowledge. Lawyers write briefs and arguments.
+Judges write opinions. Clergymen write sermons. Teachers, doctors, and
+engineers get their new ideas before members of their professions by
+writing papers for publications of various kinds. The results of their
+experiments and researches are almost invariably presented to their
+colleagues in writing.
+
+To attain eminence in one of the learned professions it is necessary for
+a man’s colleagues to think highly of his professional knowledge and
+attainments. It is not always possible for the leaders in your profession
+to know you personally, but if you can write they soon know what manner
+of man you are. The scholarly articles that a young professional man gets
+printed correspond to the home runs that are knocked by a bush league
+baseball player, but there is this difference. The sand lot baseball
+player may have made his impressive looking records against sand lot
+pitching and may fail dismally when he faces better opposition, but if a
+young professional man has the mental ability and the skill to produce
+contributions to knowledge in his field it makes no difference where
+he lives or under what conditions he has done his work. As he moves up
+to his big league he finds conditions more and more favorable for his
+continued growth and development.
+
+College graduates everywhere are being expected more and more to assume
+positions of leadership in all matters that pertain to community
+betterment. Sometimes they are candidates for office; more often they
+are directors of the chamber of commerce of their city, or of some
+similar civic enterprise. Written statements, annual reports, appeals
+for public support for a worthy cause, letters to newspapers, circulars,
+and bulletins are almost the only way a public spirited citizen can get
+his ideas before the other members of the community. If he can write
+clearly and convincingly he gets things done that would not be done if
+he expressed himself haltingly and incoherently when he took pen in hand.
+
+Up-to-date farmers and business men use printed and typewritten matter
+to get new business, to hold and increase old business, to adjust
+complaints, and to collect money. Every salesman has to write reports to
+his firm. Formal bids for all kinds of business are submitted in writing.
+Most busy executives prefer to receive the ideas of their subordinates
+in writing, and the subordinate who submits the largest number of good
+ideas in this way is the one who is likely to be promoted most rapidly.
+Many executives have to depend on letters and bulletins in directing
+large numbers of subordinates or in directing subordinates who cannot
+frequently be brought together. If you want to be paid for what you know
+rather than for what you do, learn to write.
+
+Other things being anywhere nearly equal the man who can write gets ahead
+fastest in the business, political, or professional world. The man with
+a new idea—whether it is a new type of automobile engine or a plan for
+insuring hogs—can make a success of it far more quickly if he can write
+clearly and convincingly. The next time you see a copy of _Who’s Who
+in America_ note the list of publications that follows the name of the
+successful man. The ability to write has dollar and cents value whether
+or not you ever wish to sell any of your manuscripts. You must be able to
+write to get to the top.
+
+       *       *       *       *       *
+
+2. Why do you suppose that almost every help wanted advertisement that
+offers a salary of more than $1200 or $1500 a year contains the phrase,
+“Apply by letter only”? The answer is that from one hundred letters it is
+easy to select the half dozen or so that come from persons qualified for
+a position rather than for a job. Applicants who write poor letters are
+never considered for good positions.
+
+The activities of the social world continually call for letters—letters
+of invitation, of acceptance or declination, letters to a hostess
+thanking her for her hospitality, letters of congratulation and of
+condolence. Any new person to whom you write will judge what sort of man
+or woman you are from your first letter. Uneducated persons may have well
+furnished houses in the exclusive residential districts of the city,
+and they may wear thousand-dollar fur coats, but their written words
+betray the fact that they are not accustomed to associating with educated
+persons.
+
+Students who can write get better grades in college courses than do
+students who cannot express themselves with pen, pencil, or typewriter.
+Written reports, term papers, and examinations all call for ability to
+write. It is essential not only to have the information that should
+be included in such compositions but also to be able to express your
+knowledge so that the instructor involved will know that you know.
+
+       *       *       *       *       *
+
+3. The better you write the more you will enjoy reading. You can actually
+know personally only a few persons, and they will for the most part be
+your neighbors and business associates. A love for good reading is the
+best friend you can have. Reading will make you intimate with all the
+great men and women who are now alive or who have ever lived. These great
+ones of earth—the clever, the entertaining, the thoughtful, the lovable,
+the brilliant, the courageous—have set down in books a permanent record
+of what they observed, thought, and dreamed. To get the fullest flavor
+and greatest benefit from the words they have put on paper you need to
+be something of a writer yourself. The writer best appreciates the good
+writing of others, just as the amateur musician gets more pleasure from
+a symphony concert than does the average person in the audience. The
+football player sees fine points in a football game that are lost on
+the spectator who never tried to box a tackle or elude an end. The girl
+who makes her own clothes can see distinctions in gowns that all look
+alike to her brother. It takes the craftsman in any field of endeavor to
+appreciate the work of a master.
+
+       *       *       *       *       *
+
+4. Your mother has, at the bottom of a trunk or bureau drawer, a bundle
+of letters that your father wrote to her when they were young. Every
+little while she reads them all again. She also keeps the letters he
+writes her now when he is away from home. Your letters to your mother
+will not be destroyed either. The better you write, the more pleasure
+you will give to the persons you love. Letters of commendation,
+congratulation, or condolence when done well are treasured for years, and
+are a never failing source of pleasure to those who receive them. It is
+worth something to give pleasure of this sort.
+
+       *       *       *       *       *
+
+But the greatest pleasure of all in writing is the pleasure that comes
+to you yourself. To get real enjoyment from writing you should write on
+a subject you know thoroughly or on one that interests you—preferably
+both. Write without reserve; call things by their right names. Use care
+in selecting the exact word to express your meaning. Write clearly,
+concisely, and vividly. Be definite and particular rather than indefinite
+and general. Use incidents freely to illustrate your points. Be forceful
+and picturesque. Write so that anyone who knows you could pick your
+written creation out of a thousand written by others on the same subject.
+
+Write something you are proud of and you will get more pleasure from it
+than from almost anything else you ever did. Even though you may not
+yet have realized it, writing is a great deal more fun than going to
+the theater, dancing, or watching a football game. The greatest thrill
+in life comes from seeing one whom you love create something. The next
+greatest comes from creating something yourself. Create something in
+writing that truly represents you and you too will experience this joy.
+
+
+
+
+CHAPTER II
+
+HOW TO WRITE
+
+
+The successive steps in writing are:
+
+1. Have a subject that appeals to you, and write for an actual reader.
+
+2. Gather all the material your subject demands.
+
+3. Arrange your material in the most effective order.
+
+4. Write as fast as you can.
+
+5. Revise, recast, rewrite what you have written.
+
+       *       *       *       *       *
+
+1. Write on a subject which interests you and one that you know something
+about. Good writing will not result merely from trying to satisfy an
+instructor. You can write well only if you have a compelling reason for
+writing; if you desire to convince, inform, or entertain a definite
+reader.
+
+Know the state of mind you want your reader to be in when he finishes
+reading your composition. Write for a definite reader such as a college
+freshman, a high school student, an automobile owner, a ten-year-old
+boy, a proprietor of a retail store in a town of from 15,000 to 20,000
+inhabitants. It will often be helpful if, after you choose the general
+class to whom your writing is addressed, you select one individual you
+know and keep him constantly in mind while you write. Thus instead of
+writing for a ten-year-old boy write for your brother Robert.
+
+Choose a subject that can be covered in the number of words at your
+disposal. If you are writing a four-hundred-word theme, “The American
+High School” is a poor subject. It would take a series of volumes to
+exhaust the possibilities in that title. Even eliminating a large
+portion of it by taking the topic “High School Newspapers,” “High School
+Debating,” “High School Dramatics,” or “High School Athletics,” helps but
+little. Narrowing any one of these subjects so that it applies only to
+your own high school still leaves you with more material than can well be
+put into a short theme. Good subjects for such themes are “The First Time
+I Faced an Audience,” “The Best Play I Ever Made,” “How I Felt When My
+Story Appeared in the School Paper,” and “The Most Exciting Play I Ever
+Saw in a Baseball Game.”
+
+To take another example, “Cooking” is a subject broad enough for a Mrs.
+Ralston, a Mrs. Lincoln, or a Miss Farmer. “Making Desserts” is too
+comprehensive for any but an exhaustive treatise. “Making Ice Cream”
+requires at least a booklet. Good short theme subjects would be “How
+I Make My Favorite Sherbet,” “How to Make Chocolate Ice Cream without
+Cream,” or “How to Make Ice Cream Roll with a Frozen Whipped Cream
+Center.”
+
+       *       *       *       *       *
+
+2. Reflect, read, ask questions, observe in order to gather material
+which will enable you to carry out your design. Gather, as applied
+to material for writing, implies a go-and-get-it attitude. Gathering
+material requires a physical as well as a mental search. Do not expect
+material to come to you; go after it. Talk with persons who know. Read
+what they have written. Good writing is most likely to result when the
+writer fuses his own experience and observation with the experience and
+observation of others. Gather all the material possible without trying to
+decide, while you are getting it, what is important and what is not. Keep
+your mind, your eyes, and your ears wide open. Get details and get plenty
+of them. Steep, saturate yourself in your subject.
+
+       *       *       *       *       *
+
+3. After you have gathered the material, discard everything that will
+not help you to produce the effect you are trying for. Then if there are
+any gaps in your composition, gather more material to fill them up. Some
+writers get the best results by putting a plan on paper before starting
+to write; others let a plan take more or less definite shape in their
+minds, but do not try to set down any hard and fast outline. The reason
+for not making a hard and fast outline is that a curious thing often
+happens to any writer who has written much. He finds—on occasion—that
+his composition seems to write itself. The characters he thought he had
+created have minds of their own and refuse to let him treat them like
+puppets. His thoughts seem to be alive and to exist apart from him. They
+insist on expressing themselves in their own way. An experienced writer
+does some of his best work when he seems to be merely the medium through
+which ideas are seeking to translate themselves from whatever world it is
+they inhabit to this one. If, on the other hand, a writer is continually
+consulting a plan, his ideas and characters never take things into their
+own hands.
+
+Write for someone to read. Put yourself in that reader’s place and see if
+your writing is producing the desired effect. Begin your composition with
+the details that will most effectively attract his attention and arouse
+his interest. Continue writing so that you will retain his attention and
+interest. Stop when you have said all you have to say.
+
+       *       *       *       *       *
+
+4. Write rapidly and at white heat. If pertinent ideas keep coming to you
+forget about your plan. Get your inspiration on paper before it cools. If
+you finally find a system—or even a lack of one—that enables you to write
+fast and at the same time to feel that you are creating something, do not
+let anyone talk you into trying some other plan. Stick to your own.
+
+       *       *       *       *       *
+
+5. Revise at leisure, but ruthlessly, in cold blood, and continue to
+revise, rearrange, and rewrite indefinitely until the finished product
+satisfies you.
+
+Make the final draft absolutely correct. Avoid especially the common
+faults that denote the semi-illiterate man or woman. If you make errors
+that would not be made by a twelve-year-old child, your composition will
+get scant consideration from an intelligent reader. While revising,
+question everything, spelling, grammar, choice of words, punctuation;
+question the usefulness of each idea, and the arrangement of the parts of
+the completed composition.
+
+Start writing soon enough to give yourself ample time for revision. Let
+the first draft get cold before you look at it again. If you wait several
+days after the first draft is finished you can approach your own writing
+as objectively as if it had been done by someone else. It will then be
+much easier to question every letter, every word, every phrase, every
+sentence, every paragraph, every idea, besides the whole composition and
+each of its parts.
+
+Make everything in your composition justify itself. Whenever you are
+satisfied to do mediocre work the rest of the world is satisfied with
+the valuation you have set on yourself. Be your own severest critic. Show
+your own writing no mercy. Some of the world’s most successful writers of
+advertisements as well as of novels have rewritten their best work time
+and again before giving it to the public. What reads smoothly takes hours
+of toil to produce.
+
+Many good instructors insist on receiving two copies of every composition
+from each student; one a rough, lead pencil draft, and the other the
+finished manuscript.
+
+
+
+
+CHAPTER III
+
+IDEAS FOR COMPOSITIONS
+
+
+My first play, circus, funeral, visit to a dentist’s, dance, county fair,
+Fourth of July, airplane ride, sleigh ride, or meal in a sorority house.
+
+Extracts from the real diary of a real freshman.
+
+My favorite newspaper artist, cartoon, or comic strip.
+
+Earning money while going to college or during the summer.
+
+Write the chapter of your autobiography that will be headed “Early Years.”
+
+My hobbies or aversions.
+
+How I won a prize or competed at a county or state fair.
+
+What is the well-dressed young man or woman wearing this season?
+
+My favorite magazine.
+
+My favorite recipe.
+
+Write an account of a student mass meeting.
+
+How does any organization to which you belong compare with rival
+organizations?
+
+How does it feel to belong to a fraternity or how does it feel not to
+belong?
+
+Write an article for your high school paper telling why your college is
+the best.
+
+Write a letter home asking for money.
+
+Write a history of your reading.
+
+Describe some locality you know intimately such as your neighborhood or
+your home town.
+
+Where I eat.
+
+When I made my big mistake.
+
+Taking a psychological intelligence test.
+
+The secret of making good fudge.
+
+How I spend my spare time.
+
+Give directions for making something such as a radio receiving set,
+an apron out of an old shirt, or anything that you can make that most
+persons can not.
+
+The joys of hunting, camping out, canoeing, going to the theater,
+dancing, sitting around and talking, or anything else that you enjoy
+doing.
+
+How I learned to swim or how I taught someone to swim.
+
+An embarrassing situation.
+
+When the joke was on me.
+
+My nicest compliment.
+
+Freshman registration.
+
+My favorite movie star.
+
+What is the best outdoor sport?
+
+My most hated instructor.
+
+A railroad station at train time.
+
+Men or women I have worked for.
+
+Running a high school paper, athletic team, or annual.
+
+What will you do when you leave college?
+
+An exciting moment.
+
+What is one important thing that ought to be changed in the way your
+college is conducted?
+
+If you were the principal of the high school from which you were
+graduated, what changes would you make?
+
+How does it feel to be red-headed, left-handed, bald, or fat?
+
+Why I am or am not a church member?
+
+Describe how to give a dinner party for eight persons.
+
+Are prices here higher than they are at home?
+
+The most interesting person I know.
+
+The perfect roommate.
+
+The happiest person I know.
+
+My idea of a good time.
+
+Go to church Sunday and write an account of the sermon.
+
+Write an account of the next athletic contest, banquet, or public lecture
+you attend.
+
+Write an account of an interesting recitation.
+
+One of your instructors this week will spend part of the class time
+discussing a problem of college, city, state, nation, or world interest.
+Write an account of what he says.
+
+What do you think of dogs, cats, or rabbits for pets?
+
+A day’s fishing.
+
+Why should anyone study Latin, Greek, mathematics, or any subject you
+like or dislike?
+
+What is the matter with the college paper?
+
+What do you think of the country, the city, or the small town as a place
+in which to live?
+
+How should a living room be furnished?
+
+How could you decrease your expenses one-fourth?
+
+Draw a rough floor plan of the sort of house in which you would like to
+live and explain its advantages.
+
+How to distinguish fifteen kinds of trees, birds, or automobiles.
+
+What is your pet extravagance or economy?
+
+Tell how to dress on $100, on $200, and on $500 a year.
+
+An automobile camping trip.
+
+A backyard garden.
+
+A Sunday school picnic.
+
+Who are the half dozen greatest men or women who have ever lived?
+
+How should a kitchen be laid out?
+
+What are the tests of a good national fraternity?
+
+How could more students be interested in debating?
+
+Write an account of an interesting college tradition for your high school
+paper.
+
+If you were Santa Claus, what would you give your home city for Christmas?
+
+Pick a football team from the heroes of fiction or of history.
+
+Write a good sized advertisement that could be sold to some merchant who
+does not advertise in one of the college publications.
+
+What are the ten leading colleges in the country?
+
+What is an educated man?
+
+My alarm clock.
+
+Write a plea to induce young men and women to stay on the farm or in the
+community where they were reared.
+
+Should the higher grade go to the student who does well in his daily work
+or to the student who does well in an examination?
+
+A woman’s place is in the home.
+
+How much money will it take to satisfy you five or ten years after
+graduation?
+
+Do college athletes get too much publicity?
+
+If you could arrange it, would you have your brother or sister earn some,
+all, or none of his or her expenses while going through college?
+
+Every high school graduate should earn his own living for at least one
+year before he is allowed to enter college.
+
+Describe the conditions under which your father and mother started
+housekeeping.
+
+Recommend ten books for a classmate who has never been accustomed to read
+for pleasure.
+
+What do college students read in the newspapers?
+
+Rules of etiquette undergraduates ought to follow.
+
+If you were a vocational adviser, what vocations would you advise the ten
+classmates you know best to follow?
+
+If you could spend the summer in travel, where would you go?
+
+What advice would you give to a boy or a girl who is going to enter your
+college next fall?
+
+Being afraid.
+
+A gloomy holiday.
+
+How to furnish and decorate a north room.
+
+What are the advantages of a small or of a large college?
+
+Buying a new car.
+
+What should be considered in criticizing an amateur dramatic performance
+or a speech?
+
+What is the leading honor an undergraduate can win at your college?
+
+How many things will you buy before you buy a car?
+
+If you had an assured income for the rest of your life, how would you
+spend your time?
+
+Should a washing machine be in every home?
+
+What is a gentleman?
+
+What are the tests of a good town?
+
+Describe some eccentric person you know.
+
+Describe the appearance of a friend so well that a stranger could pick
+him out of a crowd.
+
+Write a short story based on a movie.
+
+Write a movie based on a short story.
+
+How do the fraternity chapters at your college compare with one another?
+
+Write a letter to your mother to reach her on Mother’s Day.
+
+Write a letter to your father inviting him to attend Homecoming.
+
+My mother’s flower garden.
+
+Our bird shelf.
+
+How to keep cool in hot weather.
+
+Pick an “all” team from the football players you have seen this fall.
+
+Sounds that keep me awake at night.
+
+Taking care of the baby.
+
+The tribulations of a landlady.
+
+Describe a scale by which students could rate their professors.
+
+What are the advantages of making your own clothes?
+
+Write in play form an account of a family quarrel or an account of what
+happens between the halves of a close football or basketball game.
+
+In praise of idleness.
+
+Take three small boys to a soda fountain and have an ice cream eating
+contest.
+
+Children should be seen and not heard.
+
+Tell why your father, mother, brother, or sister ought to be chosen
+mayor, superintendent of schools, cashier of the bank, or anything else.
+
+How would it be possible for you to be elected president of your class,
+win a letter in athletics, make Phi Beta Kappa, run 100 miles in 48 hours
+total time, earn $2,000 within the next year, or something else that now
+looks improbable?
+
+What would happen if you could see a copy of a newspaper that would not
+be printed for another month?
+
+What would you say if called on to speak at a college mass meeting?
+
+Tipping ought to be abolished.
+
+What will ten of your most intimate friends be doing ten years from now?
+
+
+
+
+CHAPTER IV
+
+THE WHOLE COMPOSITION
+
+
+“Whole composition” is the name given to a completed piece of writing.
+
+
+PRELIMINARIES
+
+Go out and gather the material.
+
+Write the first draft as fast as you can.
+
+Revise everything you have written until the following requirements have
+been met.
+
+=100. Indicate within the first few sentences what the composition is
+about.=
+
+Some of the more common devices used by experienced writers in beginning
+a composition are listed below. You can begin almost anything you will be
+called upon to write in one of these ways or in a combination of two or
+more of them. Use a different beginning for each composition you write
+until you have tried a considerable number of them. After some practice
+you can quickly select the one beginning that is most appropriate both to
+your material and to your reader.
+
+   1. Make one or more startling assertions.
+   2. Ask one or more questions.
+   3. Say something clever.
+   4. Make one or more suppositions.
+   5. Contrast one thing with another.
+   6. Use direct discourse.
+   7. Use an incident.
+   8. Sketch in the background.
+   9. Introduce one of the characters.
+  10. Employ a preliminary summary.
+  11. Plunge your reader into suspense.
+  12. State the conclusion the reader is to reach.
+  13. Give personal details about yourself.
+  14. Talk about your reader.
+  15. State your reflections on the subject.
+  16. Explain why you are writing.
+  17. Invoke aid in accomplishing your purpose.
+  18. Quote a familiar saying.
+  19. Parody a familiar saying.
+  20. Quote what someone has said or written.
+  21. Quote what purports to be what someone has said or written.
+
+=101. Keep the same point of view throughout.=
+
+  _Wrong._ If one wishes to enter a canoe safely, he should grasp
+    both gunwales and lower himself to the seat. You should then
+    push off from the shore.
+
+  _Better._ To enter a canoe safely, grasp both gunwales and
+    lower yourself to the seat before pushing off from the shore.
+
+  _Wrong._ As he stood looking down the river he saw a house-boat
+    plowing along; while behind him a fleet of coal barges sent
+    ripples toward the shore.
+
+  _Better._ As he stood looking down the river he saw a
+    house-boat plowing along. Turning around he noticed a fleet of
+    coal barges sending ripples toward the shore.
+
+  _Wrong._ The taxi driver has an excellent opportunity to
+    observe the life about him. All kinds and conditions of men and
+    women make use of him at all hours of the day and night. Some
+    think him merely a part of the machine he drives, some consider
+    him no better than the dirt under their feet, and some—to
+    be sure they are not many—treat him as if he were a living,
+    breathing human being like themselves.
+
+  _Better._ The taxi driver has an excellent opportunity to
+    observe the life about him. All kinds and conditions of men and
+    women make use of him at all hours during the day and night. He
+    finds that some treat him as if he were no better than the dirt
+    under their feet, and some—to be sure they are not many—as if
+    he were a living, breathing human being like themselves.
+
+=102. Include everything that the reader will need for a thorough
+understanding of your subject.=
+
+  _Wrong._
+
+                     THE THEATER IN AMERICA
+
+    Between the years 1750 and 1814 many events took place which
+    either helped or hindered the establishment of a permanent
+    theater in America.
+
+    One of the big events that helped establish the theater in
+    America was the coming of the Hallam company of actors. This
+    company was made up of English actors who came from the West
+    Indies. The company consisted of twelve adult members and three
+    children. Every member of the group had ability as an actor,
+    and, consequently, the company was successful. They first
+    played at Yorktown, Virginia, in 1752. Then, after a season in
+    Philadelphia, they went to New York. After a three months’ stay
+    in New York, they returned to the West Indies, where Mr. Hallam
+    died. Here a Mr. Douglas reorganized the company and with them
+    returned to this country.
+
+    Douglas, often called the “theater builder,” did much for the
+    future theater. He was a man of great strength and courage.
+    Besides being a capable manager, he was also a good actor.
+    Douglas built the first theater in America at Williamsburg,
+    Virginia, and the first permanent theater at Philadelphia. He
+    also built theaters at Annapolis and at Newport.
+
+    The greatest difficulty which the play companies had to
+    overcome was the increasing opposition of some of the people
+    toward the theater. Throughout the country people were
+    fighting against the theater. Especially was this true of
+    the people of the North. The Southerners were fun-loving and
+    pleasure-seeking, and the theater offered them a place of
+    amusement. In many towns, however, laws were passed against
+    acting. The opposition of the people was not directed so
+    much toward the theater itself as toward the gambling and
+    immorality which accompanied the theater of that day. Folders
+    were distributed among the people explaining why the theater
+    was not approved of and gradually the gambling and immorality
+    disappeared. After this the theater improved and theater-going
+    became better thought of throughout the country.
+
+  _Better._
+
+             AN EARLY INFLUENCE IN THE AMERICAN THEATER
+
+    In the year 1752 the theater in America received a great aid
+    through the coming of the Hallam company of actors....
+
+    The condition of the theater prior to this time left much to be
+    desired....
+
+    The nature of the company was such that its influence was
+    decidedly good....
+
+    Naturally the effect of this kind of player was toward the
+    betterment of the theater....
+
+=103. Omit anything that will distract the reader’s attention.=
+
+  _Wrong._
+
+                      SCORING IN BASKETBALL
+
+    A score in basketball is made every time a player throws
+    the ball into one of the baskets placed at each end of the
+    court. In the West Branch High School the gymnasium is well
+    equipped with everything the students need for their athletic
+    contests....
+
+  _Better._ A score is made in basketball every time a player
+    succeeds in throwing the ball into the basket guarded by his
+    opponents. If this goal, as it is called, is made from the
+    field, it counts two points. Sometimes, however, one team is
+    given a free throw at the basket as the result of a foul’s
+    being made. If the ball is caged under this circumstance, the
+    foul goal, as it is called, counts one point.
+
+=104. Writing that is serious in tone or purpose should include nothing
+that will destroy its seriousness.=
+
+  _Wrong._ Gypsies are a peculiar, wandering race of people
+    that appeared in eastern Europe in the fourteenth century
+    and that has now spread out into Asia, America, and parts of
+    Africa. These people are easily distinguished from those among
+    whom they rove by appearance, by language, and by behavior.
+    In appearance they are slight, though very strong; in color,
+    somewhat tawny. In language they are thought to resemble some
+    long-lost Hindu tribe. In behavior they are _sneaky_, and a
+    number of them are not above _chicken stealing_.
+
+  _Better._ Gypsies are a peculiar, wandering race of people....
+    In behavior they are _untrustworthy_, and a number of them are
+    not above _petty thievery_.
+
+=105. Writing that is light in tone or purpose should include nothing
+that will destroy its lightness.=
+
+  _Wrong._ Many different types are in evidence around
+    Fitzgerald’s boathouse in the spring. The type most frequently
+    discovered, perhaps, is the lover. He comes, accompanied by
+    his inamorata, in quest of a canoe, in which presently the two
+    are drifting idly upon the ample bosom of Turtle creek. It is
+    strange that lovers should sojourn here, for Turtle creek is
+    anything rather than a background for romance.
+
+  _Better._ Many different types are in evidence around
+    Fitzgerald’s boathouse in spring.... Muddy water, sand dredges,
+    a railway construction gang at work near at hand, the whole
+    background is unheeded by the lovers—romance needs no setting.
+
+=106. Arrange your ideas in some orderly sequence.=
+
+Following are various kinds of sequence.
+
+=107. Arrange ideas in chronological order.=
+
+    All day long we were happy as a wedding party.... Early in the
+    morning.... When noon came.... At night....
+
+=108. Arrange the divisions of the composition according to the relative
+position of the objects treated.=
+
+    As we entered the garden.... On the right.... On the left....
+    Directly before us.... Upon going into the house....
+
+=109. Work from the abstract to the concrete.=
+
+    Freedom may be defined as the state of being free, but to how
+    many of us is this actually illuminating? Let us take, for
+    example, a man who has just been released from prison, where he
+    has been closely guarded for more than ten years. What would be
+    his idea of freedom?
+
+=110. Work from summary to detail.=
+
+    When once the mania for news gathering claims its victim,
+    everything he sees becomes potential news.
+
+    He looks for it on his way down town in the morning....
+
+    The restaurant at which he lunches is combed unconsciously for
+    items....
+
+    In the lobby of hotels and theaters....
+
+    Even his relatives and close friends become his prey....
+
+=111. Work from what is of most importance to what is less so.=
+
+    Mohammed VI, the Turkish sultan, fled from Constantinople on a
+    British warship, bound for Malta, today. The sultan declared
+    he was not abdicating, but was merely removing himself from
+    immediate danger. He was accompanied by....
+
+=112. Work from the familiar to the unfamiliar.=
+
+    Everybody has noticed the way a cat’s claws are incased in
+    tiny sheaths, but how many of us know why they should be?
+    In the first place, the cat is descended from a wild animal
+    whose way of obtaining food was to kill its prey and then
+    tear it to pieces. Naturally when this animal struck into the
+    dead body with its claws, the claws, being hook-like, would
+    tend to remain fast. But nature found a way of overcoming the
+    difficulty by incasing the claws in sheaths so that while
+    the paw of the animal is still inside the carcass, the claw
+    can be withdrawn into the sheath and the paw removed without
+    hindrance. Perfection in nature extends even to such trifles as
+    this.
+
+=113. Work up to a climax.=
+
+    Now, as always before, it is the custom to give way to great
+    manifestations of joy when the football team wins over a
+    university that is much older and much better established. Just
+    as soon as the report comes in that Drake is gaining, feeling
+    begins to run high; when it is said that Drake is ahead, we
+    begin to hold our breath; but when the report spreads that
+    Drake has won, excitement breaks out like a vast tidal wave and
+    sweeps everything before it.
+
+=114. Weld paragraph to paragraph so that they will obviously be parts of
+the whole instead of separate units.=
+
+Following are various methods of accomplishing this welding:
+
+=115. Weld paragraph to paragraph by word connectives.=
+
+    On a summer evening the shores of Lake Tiberias are thronged
+    with strange and interesting people.
+
+    Here are caravans from across the Arabian desert....
+
+    Above them a Bedouin drives his flocks....
+
+    Not far away a rich Arabian farmer....
+
+    Around him, around everyone, in fact, little Arabian boys....
+
+    Then, as the last rays of the sun disappear behind the Mountain
+    of Beatitudes, ...
+
+=116. Weld paragraph to paragraph by repetition.=
+
+    ... Thus it is that I came to believe in ghosts.
+
+    But ghosts are not all that I came to believe in that summer....
+
+=117. Weld paragraph to paragraph by recapitulation.=
+
+    ... Guns, horses, motors, men, all thundered along the road,
+    then, like dogs of war let loose at Armageddon.
+
+    The hunt was up; the scent was on the air—Germany was
+    unchained....
+
+=118. Weld paragraph to paragraph by announcing the divisions.=
+
+    The most attractive flower to me among all those that grow in
+    my garden is the sweet pea, chiefly, I think, because of the
+    delicacy of its color, form, and fragrance.
+
+=119. Give each idea the space it deserves.=
+
+  _Wrong._ As the sun climbed higher, the spell of the dawn was
+    broken, and the camp came to life. Soon the surface of the lake
+    was dotted with bobbing heads. Upon the crests of the low hills
+    farmers were seen beginning to plow. Milk carts rattled along
+    the roads toward the creamery. All was in harmony to foretell a
+    perfect day.
+
+  _Better._ As the sun climbed higher, the spell of the dawn was
+    broken, and the camp began to come to life. Soon the surface
+    of the lake was dotted with bobbing heads as the campers
+    splashed about taking their dip before breakfast. There was
+    much laughter and merry shouting; everybody was ready to have
+    as much fun as he could. Across the lake the farmers were
+    commencing to plow. And from the road behind came the rattle of
+    milk carts on their way to the creamery. It was morning; the
+    world was awake.
+
+=120. Give each idea the position it deserves.=
+
+  _Wrong._ Here and there the long, shiny body of a fish shot
+    out of the water and fell back with a faint splash. The lake
+    changed from the deep blue reflected from the clear sky to all
+    the brilliant colors of the sunset. The sun began to set long
+    before it should have, according to the campers’ ideas. Canoes
+    crept out without a sound from the shore, and the campers
+    enjoyed to the fullest their favorite time of the day. Gulls
+    called back and forth and settled for the night on jutting sand
+    bars.
+
+  _Better._ The sun began to set long before it should have,
+    according to the campers’ ideas. The lake changed in color
+    from the deep blue that had been reflected from the clear sky
+    to all the brilliance of the sunset. Here and there the long,
+    shiny body of a fish shot out of the water and fell back with a
+    gentle splash. Gulls called back and forth to one another and
+    began to settle for the night on jutting sand bars. Now canoes
+    crept from the shore without a sound, and the campers enjoyed
+    to the full this their favorite hour of the day.
+
+=121. End with whatever will give an impression of a well-rounded whole.=
+
+    ... With all these hints of prospective fun, how easy it is to
+    bang the books back upon the table and let the world go hang—on
+    Friday night.
+
+=122. Choose a title that will indicate in a word or a phrase what the
+composition is about. Be sure not to refer to the title in the body of
+the composition as if it were an integral part of the composition.=
+
+  _Wrong._
+
+                          FRIDAY NIGHT
+
+    This is the night of all the week to which I looked forward
+    with the most pleasure.
+
+  _Better._
+
+                   THE BEST NIGHT IN THE WEEK
+
+    There is one night in the week that is, to me, more pleasant
+    than any other. You know which one it is as well as I do, for
+    it is your best friend, too.
+
+=123. Plan long compositions as you gather the material.=
+
+Use cards or slips of paper of uniform size for making notes while
+reading. During the early stages of your reading, the various topics
+which you will discuss will begin to make their appearance. Make only one
+note on each card. After writing the note, write one or two words in the
+upper left-hand corner to indicate the topic treated in that note. As you
+accumulate notes, keep them sorted according to the topics.
+
+When all the available sources of material have been utilized and all
+the notes taken, arrange the various stacks—one stack for each topic—by
+first spreading them out upon a table so that you can see readily all
+the topics at once. Then move the stacks about, thus trying out various
+arrangements until you have made one which seems logical and complete.
+You will then have a plan for your composition.
+
+=124. Revise for arrangement and development by making a plan of the
+composition after it is finished.=
+
+By outlining the composition you have written, you will be able to see
+just how certain ideas bear upon the subject and are related to one
+another. Again, the outline will show you whether or not the ideas
+follow any orderly sequence. But best of all, perhaps, it will enable
+you to judge whether the composition omits anything that is vital for
+complete understanding, or contains something that distracts the reader’s
+attention.
+
+Following is a method for making a plan of the composition:
+
+    STROKES MOST COMMONLY USED IN TENNIS
+
+    Idea to be developed: In order to be a good tennis player one
+    must master certain strokes.
+
+    I. The service stroke
+       A. Position of body
+            1. Poised so that weight be added to stroke
+               a. Leans away from toss
+               b. Follows racket in striking
+       B. Tossing ball
+            1. Ball at arm’s length from shoulder
+            2. Held somewhat before body
+            3. Thrown lightly three or four feet in air
+       C. Striking ball
+            1. Racket raised to strike as ball descends
+            2. Force necessary
+            3. Accuracy necessary
+               a. Ball must strike court within bounds
+                   I´. Dimensions of receiver’s court.
+
+    Etc.
+
+=125. Exercise.=
+
+Following is a composition that is very poorly put together.
+
+1. Make an outline of the whole, using only the topic sentence in each
+paragraph.
+
+2. Strike out any topic which does not help to express the central idea.
+Reword any topic which can be made to serve its purpose better. Add any
+other topics which will aid in developing more fully the central idea.
+Combine topics that explain almost the same thing.
+
+3. Make changes in the arrangement of topics so that each topic will
+stand in its proper relationship to every other.
+
+4. Make an outline of every paragraph, using every sentence.
+
+5. Shift sentences into positions where they will serve better to develop
+the topic. Strike out any that do not directly apply. Reword any that
+can be improved by rewording. Insert additional sentences where they are
+needed.
+
+6. Shift sentences from one paragraph to another if they can thus be made
+to serve their purpose better.
+
+7. Copy the material in the regulation form for a composition, taking
+care that there is proper transition from sentence to sentence, and from
+paragraph to paragraph.
+
+8. Apply these admonitions to one of your own compositions and rewrite
+accordingly.
+
+                        WHY TAKE BOXING?
+
+    Boxing is a very interesting sport. When the child of
+    kindergarten age first attends school he has his first
+    experience with fighting. This happens at every meeting of boys
+    and continues into the teens. Nearly every real American boy
+    wants to learn how to protect himself, and a course in boxing
+    is the best way to learn defense. In boxing, the individual
+    learns where the best blows are planted and also how to ward
+    off these blows. If a boy knows these punches he will not be
+    imposed upon by his companions. Even in later life men often
+    become quarrelsome and come to blows, but the man who has
+    learned the fundamentals of boxing always comes out in the
+    lead. If every man knew how to box, robberies would be less
+    frequent because the victims would be less timid and would give
+    battle to the bandits instead of allowing themselves to be held
+    up by highwaymen. Thus, defense is an important element in
+    boxing.
+
+    Moreover, boxing, besides aiding in defense, is a healthful
+    sport. The body is developed greatly after one goes out for
+    boxing as is shown by the increase or decrease in weight,
+    as the case may be. The weight decreases if one has been
+    in the habit of taking no exercise as he begins training,
+    but the weight soon increases again as the body makes the
+    proper readjustments. Persons who are fleshy soon lose their
+    superfluous fat. With the adjustment of weight the muscles
+    are developed. The arms and shoulders with their continuous
+    exercise in delivering punches and warding off blows are highly
+    developed. The muscles of the body are developed to a great
+    extent by the continuous twisting and bending of the body. The
+    legs become firmer and carry the body with ease after practice
+    in boxing because of the rapid forward, backward, and side
+    movements necessary.
+
+    Again, the body is developed in quickness by the practice of
+    boxing. The boxer’s mind is made more alert by the habitual
+    practice. The muscles of the body also increase in quickness.
+    They respond instantly to the will of the mind and thereby
+    increase the ability to advance and retreat rapidly, to
+    deliver and ward off punches. When the boxer has developed
+    this quickness of sensory and muscular organs, he can grasp
+    the intent of his opponent’s actions more quickly and govern
+    himself accordingly.
+
+    Boxing is a very well-known sport. It is widely popular both
+    in Europe and in America. It originated several centuries ago.
+    The main reason for the popularity of boxing is that it is a
+    very interesting sport. The spectator is held by the rapid
+    action of the boxers. In the early days of boxing the men were
+    slow and relied chiefly upon strength, but the modern boxer
+    has developed speed and uses short, quick blows. If the boxer
+    of the past should fight the boxer of the present, the affair
+    would be very one-sided, because the latter would soon tire out
+    his opponent by his quickness.
+
+    Besides being interesting because of the violent action that
+    is a natural part of the sport, it is also interesting from
+    the point of view of the money-maker. Thousands of dollars
+    are spent every year in developing winners. This was shown in
+    our latest match, the Dempsey-Carpentier fight, in which many
+    thousands of dollars were involved. An international spirit
+    also prevails when boxers from two countries meet. This was
+    indicated in the same match when all the Americans yelled for
+    Jack and all the foreigners for Georges.
+
+    Boxing has grown in popularity through the ages because of its
+    aid to health and because of its interesting features.
+
+
+
+
+CHAPTER V
+
+THE PARAGRAPH
+
+
+A paragraph is an indented division of the whole composition. Beginning
+with an indention, and usually ending with a partly blank last line,
+it constitutes a visible block of material on the page. The successive
+blocks relieve the strain on the reader and enable him to mark each step
+in the advance from division to division of the thought. In length the
+paragraph ordinarily ranges from 150 to 300 words.
+
+=200. Indent the first word of each paragraph at least half an inch. In
+typing, indent five spaces. Every paragraph begins on a new line.=
+
+=201. The last sentence in the paragraph sometimes ends before the
+right-hand margin of the page is reached. In this case the last line of
+the paragraph may be left partly blank. All other lines must be filled
+clear to the margin.=
+
+=202. Do not indent every sentence as if it were a new paragraph.=
+
+  _Wrong._ At that time they reorganized a girls’ basketball
+    team which had been dropped two years before, and they made me
+    jumping center.
+
+    Although our high school was not a large one, we played some
+    very good games, and managed to make a good record for the four
+    years.
+
+    In my last year we had a new superintendent who was interested
+    in athletics, and we then had teams in basketball, football,
+    baseball, and track.
+
+  _Right._ At that time they reorganized a girls’ basketball
+    team which had been dropped two years before, and they made
+    me jumping center. Although our high school was not a large
+    one, we played some very good games, and managed to make a
+    good record for the four years. In my last year we had a new
+    superintendent who was interested in athletics, and we then had
+    teams in basketball, football, baseball, and track.
+
+=203. In representing conversation, begin a new paragraph with every
+change of speaker.=
+
+  _Wrong._ “Shall we go swimming after school tonight?” I asked.
+    “No, I have to work,” John replied. “When can we go, then?”
+    “Tomorrow night after school, or any time Saturday. I don’t
+    have to work next Saturday at all.” “All right; let’s go
+    tomorrow.”
+
+  _Right._ “Shall we go swimming after school tonight?” I asked.
+
+    “No, I have to work,” John replied.
+
+    “When can we go, then?”
+
+    “Tomorrow night after school, or any time Saturday. I don’t
+    have to work next Saturday at all.”
+
+    “All right; let’s go tomorrow.”
+
+=204. Form one paragraph out of two short paragraphs which actually
+constitute one division of the whole composition.=
+
+  _Wrong._ He always has a smile and a kind word for everyone.
+    He tries to lift everyone with whom he comes in contact to a
+    higher plane of living.
+
+    Much sorrow has come into his life, but it seems to have made
+    him only kinder and more gentle.
+
+  _Better._ He always has a smile and a kind word for everyone.
+    He tries to lift everyone with whom he comes in contact to a
+    higher plane of living. Much sorrow has come into his life,
+    but it seems to have made him only kinder and more gentle.
+
+=205. Break up a paragraph that is too long into two or more paragraphs.
+The subject matter of each of the new paragraphs thus formed should
+constitute a natural subdivision of what was originally one paragraph.=
+
+  _Tedious._ Just like all children, Charlotte was not perfect,
+    either in school or out. While she was in the second grade,
+    she was sent home for making paper boats during study time,
+    a fascinating pastime which the teacher did not approve of;
+    and while she was in the fourth grade, she and a friend were
+    sent to the superintendent for a lecture because out of
+    curiosity they looked through the window of the school room
+    one evening after closing time to watch a naughty schoolmate
+    get his paddling. The grammar school days arrived at last,
+    and with them came the habit of giggling and playing, at the
+    expense of lessons and the trying of the teacher’s patience
+    and temper. During the first year in high school she calmed
+    down and worked hard to establish a reputation. She was always
+    very enthusiastic over athletics and yelled herself hoarse at
+    basketball or football games. A great deal of her time was
+    spent in reading books of various types and in out-of-doors
+    sports. While she was a junior and also during the last year
+    of her high school career, she helped her father with the book
+    work in his office, thus getting a little experience along
+    that line and also earning for herself some expense money.
+    Commencement finally came, and she was graduated in a class of
+    thirty-three with all the thrills and excitement which usually
+    accompany that occasion.
+
+  _Better._ Just like all children, Charlotte was not perfect,
+    either in school or out. While she was in the second grade,
+    for instance, she was once sent home for making paper boats, a
+    fascinating pastime for her, but one, however, of which the
+    teacher did not approve, especially during study hours. Again,
+    when she was in the fourth grade, one evening after school had
+    closed for the day she and a friend peeped through the school
+    room window out of curiosity to see a naughty schoolmate get
+    his paddling. The result was a lecture from the superintendent
+    the next day.
+
+    Grammar school days arrived at last, and with them came the
+    habit of giggling and playing, at the expense of lessons and
+    of trying the teacher’s patience and temper. During her first
+    year in high school, however, she calmed down and worked hard
+    to establish a reputation. She was very enthusiastic over
+    athletics and frequently yelled herself hoarse at basketball
+    or football games. Much of her time at this period of her life
+    was spent in reading books of various types and in out-of-door
+    sports.
+
+    Nevertheless, while she was a junior and also during her senior
+    year, she found time to help her father with the book work in
+    his office, and so acquired a little business experience and
+    also earned some expense money. And finally, when commencement
+    came, she was graduated along with thirty-three others amid
+    all the thrills and excitement that usually accompany this
+    memorable occasion.
+
+=206. Avoid a violent break in thought within the paragraph.=
+
+  _Wrong._ At the age of five I entered the public school. The
+    second day in school began the happiest days of my life with
+    a good whipping. This whipping brought into my life the best
+    friend I ever had. After eight years of the closest friendship
+    he passed out of my life. It was then that the realization of
+    what a mother could be swept over me. Until this time my mother
+    had been a person to go to when in trouble. She now appeared to
+    me in the new light of a pal.
+
+  _Better._ At the age of five I entered the public school. A
+    good whipping, which I received my second day in school,
+    not only ushered in the happiest days of my life, but also
+    brought me one of the best friends I have ever had, Mr. Clark,
+    the superintendent. During my eight years in that school he
+    remained my closest friend, and it was not until I had finished
+    there and Mr. Clark had passed out of my life that I began to
+    realize what a real friend my mother could be.
+
+    Until this time my mother had been only a person to whom I
+    could go when I was in trouble; now she appeared more like a
+    pal.
+
+=207. Discard any material that does not belong in the paragraph.=
+
+  _Wrong._ When evening comes and his day’s work is completed, he
+    hurries home to his family. He is not extravagant in his home,
+    but has it neatly furnished. If the weather is favorable, he
+    takes them all for a drive in the country, or they go visiting,
+    or do something else which he arranges for the pleasure of
+    those he loves.
+
+  _Better._ When evening comes and his day’s work is completed,
+    he hurries home to his family. If the weather is favorable, he
+    takes them all for a drive in the country, or they go visiting,
+    or do something else which he arranges for the pleasure of
+    those he loves.
+
+=208. The substance of a good paragraph can usually be summed up in a
+single sentence. It is often advantageous to put such a sentence, called
+a topic sentence, at or near the beginning of the paragraph.=
+
+  _Example._ _Of all the places for summer dreams the best is a
+    California beach._ There the blended sights and sounds form a
+    quiet setting for fanciful thoughts. The old Pacific rolls in
+    its oily swells with only a rippling murmur; the droning roar
+    of the surf a half mile down the shoreline rises from the tug
+    of waves on tons of pebbles; the white hull of a launch is
+    dipping, dipping far out upon the water, its regular exhausts
+    sounding faint and thin. These sights and sounds are dreamy and
+    far off; under the mood of them the quiet mind builds sweet,
+    lazy air castles, to be forgotten and renewed.
+
+=209. Arrange ideas in some definite order within the paragraph. (See
+106-113.)=
+
+  _Example._ A fence has been the evil genius of my life. It
+    was not a remarkable fence, either; just a neat picket fence
+    painted white. It surrounded a beautiful, well-kept lawn and
+    guarded an old, pretty house which overflowed with books and
+    toys. But the toys would sometimes become tiresome, and I
+    would look wistfully through the fence at the children playing
+    across the street. I would have liked to join them or to have
+    them come over—but there stood the fence. I learned to read
+    and gradually built up a play world of my own until one day I
+    realized that I liked the fence. I no longer cared to play with
+    the other children, and when I went to school I found that I
+    could not play with them. The fence had followed me. The years
+    outside the fence have changed me somewhat, but still whenever
+    I am in a group of young people I have a feeling that I am not
+    one of them. I want to stand back and watch them play. Some
+    people call my backwardness shyness or timidity, others call it
+    pouting and attribute it to a disagreeable disposition, but I
+    know what it is: it is a neat picket fence painted white.
+
+=210. Link sentence to sentence within the paragraph by using words
+and phrases of reference, such as _he_, _this_, _then_, _however_, _of
+course_.=
+
+  _Example._ There is a delicacy about sweet peas that makes
+    them more attractive to me than any other flower in my garden.
+    Notice the way the blossom is joined to the stem. _It_ is
+    poised there with such nice balance that at the least puff of
+    air the flower sways on its long green stalk with the rhythm
+    of the wind. _And_, _too_, their delicacy of color is beyond
+    that of most flowers. Really, the only thing I can think of
+    to compare with them is the clouds at sunrise. If you have
+    noticed, the colors _then_ are fresh and vivid from the light
+    behind the clouds, though a faint mist makes them more elusive
+    than the colors of broad day. In the sweet peas the _same_
+    airy, translucent color is repeated—the wan white, the sober
+    purple blending into lavender, the rose in infinite variety.
+    And there are other things, _besides_—the dewy freshness
+    that clings to them all day, the coolness of them, the faint
+    perfume—which make me think them different from the rest of
+    the flowers in my garden and which set them apart from all the
+    others in delicacy.
+
+=211. Link sentence to sentence within the paragraph by causing each to
+grow out of the one preceding.=
+
+  _Example._ A university is an institution of higher learning.
+    For purposes of ministering the better to the various demands
+    made upon it, it is made up of a number of colleges, as the
+    college of medicine, the college of law, that of engineering,
+    of liberal arts, of commerce, for instance, each college being
+    in charge of an officer called the dean. The colleges, in turn,
+    are composed of various departments, such as the department
+    of Romance languages, of art, and of home economics; these
+    are under the charge of officers called department heads or
+    professors. And finally, each department presents many courses
+    of instruction, like French, rhetoric, European history, and
+    architectural drawing, each course being taught directly by
+    an officer called an instructor or professor. Hence, although
+    from the variety of its interests and the complexity of its
+    activities it would seem that a university is an awkward,
+    ungainly organism, nevertheless, if one examines it closely,
+    one finds that it is a highly organized and smoothly running
+    machine.
+
+=212. Avoid an inconsistent change in number within the paragraph.=
+
+  _Wrong._ Here we find what amusements occupy his or her time.
+    This is where their chief characteristics can be pointed out.
+    Then a word here, an oddly written phrase there, or a lack of
+    words gives us a clue to the nature of the student.
+
+  _Better._ Here we find what amusements occupy his time. This is
+    where his chief characteristics can be pointed out. Then a word
+    here, an oddly written phrase there, or a lack of words gives
+    us a clue to the nature of the student.
+
+=213. Avoid an inconsistent change in person within the paragraph.=
+
+  _Wrong._ One learns to like some students, of whom there are
+    too few upon the campus. Others I dislike, and of these there
+    are too many.
+
+  _Better._ One learns to like some students, of whom there are
+    too few upon the campus. Others one dislikes, and of these
+    there are too many.
+
+=214. Avoid an inconsistent change in tense within the paragraph.=
+
+  _Wrong._ My flower garden in June is a most interesting and
+    beautiful sight. On a bright sunny morning one would stop in
+    amazement; the flowers were so happy when the sun reached their
+    faces, still wet with dew, that they fairly sparkled.
+
+  _Better._ My flower garden in June is a most interesting
+    and beautiful sight. On a bright sunny morning one stops in
+    amazement; the flowers are so happy when the sun reaches their
+    faces, still wet with dew, that they fairly sparkle.
+
+=215. Avoid an inconsistent change in voice within the paragraph.=
+
+  _Wrong._ His directions were brief and to the point. Every
+    question I asked was answered by just the information I
+    desired—no more, no less. When dictating he used only the
+    simplest words. All inquiries in letters were answered plainly.
+
+  _Better._ His directions were brief and to the point. He
+    answered my questions with just the information I desired—no
+    more, no less. When dictating he used only the simplest words
+    and always answered plainly all inquiries in letters.
+
+=216. Avoid an inconsistent change in mood within the paragraph.=
+
+  _Wrong._ If you were to visit the library on Saturday
+    afternoon, you would find it nearly deserted. The tables would
+    be empty and the reading room very quiet. The students are upon
+    the river or are enjoying themselves upon the campus. Someone,
+    however, who has a paper to get in may be busy at the reference
+    shelves.
+
+  _Better._ If you were to visit the library on Saturday
+    afternoon, you would find it nearly deserted. The tables would
+    be empty and the reading room very quiet. The students would
+    be upon the river or enjoying themselves about the campus.
+    Someone, however, who had a paper to get in might be busy at
+    the reference shelves.
+
+=217. Put the most significant idea near the beginning or the end of the
+paragraph.=
+
+  _Example._ Far as he could see through the gathering dark
+    there was quiet, the reaction after tremendous exertion.
+    Shapes of men surrounded him. Here lay one flat upon his back,
+    his features sketched in sharp focus by the fading light.
+    Three yards to one side sat two bodies leaning back to back,
+    heads upon breasts, helmets over eyes. Beyond them huddled an
+    indistinguishable mass. On the other side, so close he could
+    have touched them, an arm and a leg strung along in a line—no
+    torso within a rod of them. The world lay desolate and silent
+    except for the yellowing moon and the far off, intermittent
+    firing.
+
+  _Example._ My one worry and regret, however, was the fact
+    that my father was the president of the school board. Part
+    of my teachers gave me good grades because they were afraid
+    they would lose their positions if they did otherwise, and
+    the rest of them tried to flunk me because they thought they
+    were not being paid highly enough. Among them all I managed to
+    make about a B average, and the problem which now remains for
+    the university to solve is, did I receive more or less than I
+    deserved while in high school.
+
+=218. Give most space to the most significant idea.=
+
+  _Example._ Since man’s progress through the ages is a passage
+    from the undeveloped to the highly developed, one wonders what
+    the buildings of a thousand years from now will be like. From
+    that day in the remote past, when the first cliff dweller
+    conceived the idea of enlarging his home by carving out another
+    terrace in the rock above it, to this day when we have a
+    skyscraper 750 feet high, man’s building has approached nearer
+    and nearer to the clouds. As the little two-story terrace
+    grew, the cliff dwellers wondered and doubted. Likewise,
+    when a four-story building was a fact accomplished by our
+    great-grandfathers, to live in a ten-story building would have
+    been considered extremely hazardous. And now since we have the
+    forty-story Singer building, will man continue to aspire to the
+    clouds or will he remain satisfied with his achievement?
+
+=219. Practice.=
+
+Here is a paragraph that is very poorly put together. On the basis of
+what you have just studied, answer the following questions and rewrite
+the paragraph accordingly.
+
+1. What about the indention?
+
+2. What about the right-hand margin?
+
+3. Should the speech of the mother be given a whole paragraph?
+
+4. Is it possible to form more than one good paragraph of this thought?
+Why, or why not?
+
+5. Does a break occur in the thought? Where?
+
+6. Should anything be discarded? What?
+
+7. Can you find a topic sentence, or must you compose one?
+
+8. What about the arrangement of ideas?
+
+9. Can you improve the links between sentences? How?
+
+10. Can you give more prominence to significant ideas? How?
+
+    Perhaps it was from her father that she got her restlessness.
+    Accidentally she put her finger on the label of what looked
+    to be the top of an ordinary hat, and the flat shape she held
+    immediately took the form of a hat. Her only ideas regarding
+    him came through an incident that happened when she was about
+    fourteen.
+
+    She had never seen him, and her mother never mentioned his
+    name. Her father lived in her mind as an ideal. She rushed,
+    filled with questions, to her mother, for as long as she could
+    remember there had never been a man in the house, and she
+    had never seen such a hat except in pictures. Her mother was
+    anything but romantic. She and her mother had been giving their
+    house its fall cleaning, and she had found, wrapped up in an
+    old silk comforter, what she took to be a hat—it was shaped
+    like one except that it had no crown. “Your father’s,” had been
+    the mother’s laconic answer, her lips drawing into a hard,
+    straight line that forbade further questioning.
+
+
+
+
+CHAPTER VI
+
+GRAMMAR
+
+
+In this short discussion of grammar the attempt is not made to discuss
+exhaustively all the features of English grammar. The purpose is only
+to survey and to identify all the elements of an ordinary sentence. The
+definitions are few, and are descriptions rather than formal definitions.
+The parts of speech are treated as they become important in the structure
+of the sentence. Such a treatment of essentials as this is necessary
+partly as a review, but especially because a teacher and a student
+cannot discuss many of the commonest sentence faults unless they have a
+mutually intelligible terminology. A student must be able to recognize
+such grammatical elements as a subject or an object, a participle or
+an infinitive, a phrase or a clause, in order to produce correct and
+effective sentences. There is a minimum amount of grammatical knowledge
+without which a writer cannot rewrite his compositions so as to avoid the
+commonest errors and imperfections.
+
+
+What Grammar Is
+
+Grammar is the study of the structure of sentences, and of the forms and
+functions of words and word-groups within sentences. In simple terms,
+grammar is the examination of the machinery of language.
+
+
+Sentences
+
+Sentences make assertions (declarative sentences), or ask questions
+(interrogative sentences), or give commands (imperative sentences), or
+express emotion (exclamatory sentences). Written sentences begin with a
+capital letter and end with a period, a question mark, or an exclamation
+point.
+
+The most common kind of written sentence is that which makes an
+assertion. This kind, called declarative, may well be taken, therefore,
+as the most available basis for the discussion of the machinery of the
+sentence. The word sentence in this chapter will accordingly mean a
+declarative sentence.
+
+
+The Parts of a Sentence—Subject and Predicate
+
+A sentence has at least two parts—a subject and a predicate.
+
+The _subject_ is that part which designates what the assertion is about.
+
+The _predicate_ is that part which makes the assertion.
+
+Many students earn their way through college.
+
+It is obvious that _Many students_ designates what the assertion is
+about, and is therefore the subject. _Earn their way through college_
+makes the assertion about _Many students_, and is, therefore, the
+predicate.
+
+Although the sentence may contain other elements, although the subject
+or the predicate or both may be long and complicated, and although
+the elements making up the subject and the predicate may be variously
+arranged, nevertheless every normal declarative sentence contains these
+two parts, and can be divided into these two parts.
+
+
+Subjects
+
+The fundamental word or element in the subject is a noun, a pronoun, a
+gerund, an infinitive, or a clause.
+
+A _noun_ is simply a name word. It may signify a person or an animate
+being (Frank, boy, dog), an object (tree, box), a color (red), an action
+(walking, step, discussion), a quality (goodness), an abstract idea
+(truth, space), a general idea (speed, thing), to name only a few kinds
+of nouns. But it is always the name of an individual or of a class of
+persons or things.
+
+A _pronoun_ is a substitute or symbol word which signifies a noun which
+is either expressed near the pronoun or implied by the circumstances (he,
+it, who, anyone, I, you).
+
+A _gerund_ is a noun made by adding the suffix -ing to a verb (walking,
+hoping, sitting, being).
+
+An _infinitive_ is a form of a verb, usually preceded by the word _to_,
+often used to name the action signified by the verb (to think, to have
+gone).
+
+A _clause_ is a sentence element consisting of a subject (in the
+nominative case) and a predicate (with the verb in a finite form—that is,
+not an infinitive or a participle).
+
+    1. _Noun_:       Time flies.
+    2. _Pronoun_:    He arrived late. Everybody was late. I can do it.
+    3. _Gerund_:     Standing on the corner made him cold.
+    4. _Infinitive_: To tell the truth was easy.
+    5. _Clause_:     That he hath wronged me doth appear in this. Where
+                       he stood makes no difference.
+
+
+Predicates
+
+The fundamental word in the predicate is the verb.
+
+A _verb_ is a word—or a word-group—the function of which is to assert
+something about the subject.
+
+    The tide rises.
+
+    The sun shone.
+
+    I bought a book.
+
+    The box is small.
+
+The verb may consist of one word—as in the examples given—or it may
+consist of a group of words, called a verb-group, containing sometimes as
+many as five words. This verb group consists of one, two, three, or four
+auxiliary verbs, followed by a form of the verb expressing the meaning or
+sense. The form of the sense-verb is an infinitive, a present participle,
+or a past participle.
+
+    The moon will rise.
+
+    The moon is rising.
+
+    The moon has risen.
+
+    He may light the lamp.
+
+    He is going to light the lamp.
+
+    The lamp at last was lighted.
+
+    The lamp has been lighted.
+
+    The lamp may have been lighted.
+
+    He may have been going to light the lamp.
+
+
+Structural Parts of the Predicate—Objects
+
+_Intransitive verbs_ are those which, like _rise_, make assertions the
+action of which does not involve any person or thing other than the
+subject.
+
+_Transitive verbs_ are those which, like _light_, make assertions which
+involve some person or thing other than the subject in the action of the
+verb. In the sentence _He lighted the lamp_, _lamp_ is such an _object_.
+
+The same verb may sometimes assert one, and sometimes the other kind of
+action.
+
+    The door opened.
+
+    He opened the door.
+
+Some transitive verbs make an assertion which involves two nouns, both
+signifying the same thing or person.
+
+    The club elected Frank president.
+
+Some transitive verbs make an assertion which involves two different
+objects or persons.
+
+    I gave Frank an apple.
+
+    She bought Frank an apple.
+
+    I told him a story.
+
+Here _apple_ or _story_ is the object directly affected by the action of
+the verb, and is, therefore, called the _direct object_. _Frank_ or _him_
+designates the person for whose benefit the action of the verb affects
+the direct object, and is called the _indirect object_.
+
+
+Copulas and Complements
+
+Still another kind of verb, called a _copula_, though it does not take
+a direct object, makes only part of the assertion. The rest is made by
+means of another word (or element) which characterizes the subject but
+which is an essential part of the assertion. In fact, the _complement_,
+as the element completing the verb is called, is the most significant
+part of the predicate; the verb is merely a bit of machinery by means of
+which the complement is turned into an assertion.
+
+    The sky is red.
+
+    The dark shape was a house.
+
+    The car looks cheap.
+
+    He is in the house.
+
+    Home is where the heart is.
+
+In these sentences, _red_, _a house_, _cheap_, _in the house_, and _where
+the heart is_, are parts of the predicate, though they characterize the
+subject. Such elements are called _complements_ because they complete
+the assertion of the verb; if adjectives, they are called _adjective
+complements_, or better, _predicated adjectives_; if nouns, they are
+called _noun complements_, or _predicated nouns_; if clauses or phrases,
+they are called _complements_, or _predicated phrases_ or _clauses_.
+The verbs by means of which these complements are predicated are called
+_copulas_.
+
+
+Modifiers
+
+Almost every word in the sentence is capable of having its meaning
+described, restricted, emphasized, or toned down in some way—that is, any
+meaning in the sentence may be characterized or modified.
+
+    Heavy automobiles run smoothly.
+
+_Heavy_ both describes and restricts _automobiles_.
+
+Words which characterize nouns in this way are called _adjectives_.
+
+_Smoothly_ describes and restricts run.
+
+Words which characterize verbs are called _adverbs_.
+
+    Very heavy automobiles run much more smoothly.
+
+_Very_ emphasizes _heavy_. A word which thus characterizes an adjective
+is called an _adverb_.
+
+_More_ characterizes _smoothly_. _Much_ characterizes _more_. A word
+which characterizes an adverb is called an _adverb_.
+
+
+Prepositional Phrases
+
+Nouns, pronouns, verbs, adjectives, and adverbs are also frequently
+described or limited in the same way by an element or group of words
+called a _prepositional phrase_. This usually consists of a noun,
+pronoun, or gerund whose exact relationship to the modified word is
+shown by means of a _preposition_. The preposition is placed before the
+modifying noun or pronoun and its adjective modifiers.
+
+    At home
+    In the house
+    With large tires
+    Over rough roads
+
+    Heavy automobiles with large tires run smoothly over rough
+    roads.
+
+_With large tires_ is a prepositional phrase, consisting of the
+preposition _with_ and its object _tires_; the phrase modifies or
+characterizes _automobiles_.
+
+_Over rough roads_ is a prepositional phrase which characterizes _run_.
+
+A prepositional phrase characterizing a noun is called an _adjective
+prepositional phrase_. One characterizing a verb is called an _adverbial
+prepositional phrase_.
+
+
+Subordinate Clauses
+
+A _clause_ is any part of a sentence consisting of a subject in the
+nominative case and a predicate containing a verb in a finite form (not
+a participle or an infinitive). Some clauses are used as nouns; others
+are used to characterize or modify nouns, pronouns, verbs, adjectives, or
+adverbs. Clauses used as nouns are called _noun clauses_. Those used as
+adjectives are called _adjective_ or _relative clauses_. Those used to
+modify verbs, adjectives, or adverbs are called _adverb clauses_.
+
+
+Noun Clauses
+
+_Noun clauses_ may be used in practically any construction in which a
+noun is used.
+
+    _Subject_:               That he is a good workman is clear enough.
+    _Appositive_:            The fact that the paper is new disproves
+                               his claim.
+    _Predicated noun_:       The weather will be what fate determines.
+    _Object of verb_:        I saw that he had finished.
+    _Object of preposition_: The book is satisfactory except that it
+                               omits one essential feature.
+
+
+Adjective Clauses
+
+_Adjective clauses_ are those which modify a noun or a pronoun.
+
+    Heavy automobiles which carry large loads run smoothly.
+
+
+Adverb Clauses
+
+_Adverb clauses_ usually modify a verb. They characterize the verb in
+several different ways.
+
+    _Time_:       He hurt his wrist when he fell.
+    _Place_:      I put the glass where I could reach it.
+    _Cause_:      We stopped the car because it was raining.
+    _Concession_: Although it was still dark I awoke.
+    _Condition_:  If you read widely you will not be ignorant.
+    _Purpose_:    He broke the stone that he might find a fossil.
+    _Result_:     He struck the vase so that it fell over.
+    _Manner_:     They work as they please.
+
+Adverb clauses of degree, and sometimes those of manner and of result
+modify an adverb or an adjective.
+
+    The cherries tasted sweeter than they looked.
+
+    He sawed the plank as carefully as he could.
+
+    We traveled so slowly that I despaired of reaching our
+    destination.
+
+
+Participles
+
+The _participle_ is any form of the verb used as an adjective. There are
+several forms: _rising_, _risen_, _having risen; raising, raised, having
+raised, being raised, having been raised._
+
+    The rising sun awakened me.
+
+    The fallen tree lay across the ravine.
+
+    The wind, howling a gale, swept the sea.
+
+    Twisting out of my hands, he escaped in the darkness.
+
+    The tree, twisted and broken, rotted away.
+
+
+Infinitives
+
+The _infinitive_ is usually preceded by its sign, _to_, but after some
+verbs (_do_, _shall_, _will_, _may_, _can_, _dare_, _help_, _need_,
+_see_, _hear_, _feel_, _let_, _make_, _bid_) and after the expressions
+_had better_, _had rather_, it is usually the pure or root infinitive
+without _to_.
+
+There are six forms of the infinitive:
+
+             _Simple_        _Progressive_        _Passive_
+    _Pres._   to take         to be taking         to be taken
+    _Perf._   to have taken   to have been taking  to have been taken
+
+The infinitive has various uses:
+
+    _Subject_:                To command is his ambition.
+    _Predicated noun_:        To know is to act.
+    _Object of verb_:         I prefer to travel slowly.
+    _After nouns_:            We have work to do.
+    _After verbs_:            He failed to pass his examinations.
+                              He seemed to be in trouble.
+                              Children had better be silent.
+    _After verbs_ (with noun
+      or pronoun subject):
+                              Our neighbors helped us move.
+    _After adjectives_:       They are glad to hear the news.
+                              He is so foolish as to believe the tale.
+
+
+Conjunctions
+
+It is often necessary or desirable to join together two or more similar
+words, elements, or clauses in a sentence. Two nouns constituting the
+subject, for example, may have the same assertion made about them.
+
+  Time and tide wait for no man.
+
+_And_, which joins _time_ and _tide_, is a _conjunction_.
+
+Two adjectives, two verbs, two adverbs, two prepositional phrases, or two
+clauses may be joined together with a conjunction.
+
+  The flag is colored red and blue.
+
+  Time came and went.
+
+  Men and women laughed and cried.
+
+  The rains descended, and the floods came.
+
+  The automobile is fast, but the airplane is faster.
+
+Words like _and_ and _but_ are conjunctions.
+
+Conjunctions which connect words, phrases, or clauses of equal
+grammatical value are called _co-ordinating conjunctions_.
+
+The most frequent are _and_, _but_, _or_, _nor_, _for_.
+
+_Subordinating conjunctions_ are used to join a subordinate clause—noun,
+adjective, or adverb—to another clause or to some word in another clause.
+At the same time they show the exact significance and bearing of the
+subordinate clause.
+
+  We heard that the train was wrecked.
+
+  He came because I called him.
+
+  He remained though he wanted to go.
+
+  If it rains I shall stay at home.
+
+Subordinating conjunctions are also sometimes used to join participles or
+adjectives to the rest of the sentence. In such cases, the participle or
+the adjective modifies a noun.
+
+  Though moving slowly, the train was gaining.
+
+  Though faithful to his master, the dog was shot.
+
+
+Structure of Sentences
+
+According to certain features of their structure, sentences are
+classified as _simple_, _compound_, or _complex_.
+
+A _simple sentence_ is one consisting of a single clause or assertion.
+
+  Time flies.
+
+  Time came and went.
+
+  Time and tide wait for no man.
+
+  Men and women laughed and cried.
+
+The subject of a simple sentence may consist of one noun or pronoun
+with its modifiers, or of two or more nouns with their modifiers. In
+the latter case, the subject is called a _compound subject_. Similarly,
+the predicate may contain one verb or two or more verbs. Occasionally a
+sentence will have a compound subject and a compound predicate, as in the
+last example given.
+
+
+Compound Sentences
+
+A _compound sentence_ is one which consists of two or more assertions
+of equal grammatical value—that is, neither assertion is grammatically
+subordinate to the other or to any part of the other.
+
+  The rain descended, and the floods came.
+
+  The automobile is fast, but the airplane is faster.
+
+
+Complex Sentences
+
+A _complex sentence_ is one which contains not only a main assertion (or
+more than one), but also one or more subordinate assertions—that is, it
+contains one or more assertions which are grammatically incorporated as
+a noun or an adjective or an adverb into the main clause or into another
+subordinate clause.
+
+  I saw that he had finished.
+
+  Heavy automobiles which carry large loads run smoothly.
+
+  The weather will be what fate determines.
+
+  He broke the stone that he might find a fossil.
+
+
+Absolute Elements
+
+Most of the elements of a sentence have a clear grammatical relation to
+one another. But there are pieces of structure which have no evident
+relationship to anything else.
+
+_Noun absolute_:
+
+  He lay down, his heart heavy with sorrow.
+
+  Hat in hand, he came down stairs.
+
+The _participle absolute_ is more frequent.
+
+_Participle absolute_:
+
+  This said, he sat down.
+
+  One of them having fallen, the rest ran away.
+
+  The teacher absenting himself, there was no school.
+
+
+Parenthetical Elements
+
+_Parenthetical elements_, like _so to speak_, _it is hoped_, _it is
+reported_, _they remark_, which have no grammatical connection with the
+rest of the assertion, occur frequently. Sometimes they are inclosed
+within dashes, sometimes within parentheses, sometimes within commas.
+
+  This action, it is expected, will produce results.
+
+
+Flexibility of the Sentence Elements
+
+Although the sentence has a normal order—subject, verb, object; or
+subject, verb, complement—it is rich and varied in the possibilities it
+possesses of variety and rearrangement, especially in the position of
+adjective, participial, and adverbial elements, and in the case of adverb
+clauses.
+
+_Adjective_:
+
+  The gloomy and portentous mountains towered above him.
+
+  Gloomy and portentous, the mountains towered above him.
+
+  The mountains, gloomy and portentous, towered above him.
+
+_Adverb_:
+
+  The building may have been entered immediately.
+
+  The building may have been immediately entered.
+
+  The building may have immediately been entered.
+
+  Immediately the building was entered.
+
+  The building was immediately entered.
+
+  The building was entered immediately.
+
+_Adverb Clauses_:
+
+  As soon as he had knocked, he opened the door.
+
+  He opened the door as soon as he had knocked.
+
+
+Inflections
+
+Nouns, pronouns, verbs, and two adjectives show changes in function and
+meaning by means of changes in form, by endings, or, sometimes in the
+case of verbs, by prefixing auxiliary verbs.
+
+
+Noun Declension
+
+Nouns are declined to show case and number.
+
+              _Singular_  _Plural_
+
+    _Common_     boy        boys
+    _Possessive_ boy’s      boys’
+
+    _Common_     man        men
+    _Possessive_ man’s      men’s
+
+    _Common_     child      children
+    _Possessive_ child’s    children’s
+
+
+Pronoun Declension
+
+Pronouns are declined to show case and number.
+
+              _Singular_           _Plural_
+
+    _Nominative_ I                   we
+    _Possessive_ my                  our
+    _Objective_  me                  us
+                 thou                you
+                 thy                 your
+                 thee                you
+                 he    she   it      they
+                 his   her   its     their
+                 him   her   it      them
+                 who
+                 whose
+                 whom
+
+
+Adjective Declension
+
+Two adjectives show differences in number.
+
+    _Singular_  _Plural_
+
+       this      these
+       that      those
+
+
+Verb Conjugation
+
+Verbs are conjugated to show person, number, tense, mood, and voice.
+Most of these changes are shown by the use of auxiliary verbs, which are
+placed before the infinitive or the past or present participle of the
+sense-verb. The combinations are called verb-groups.
+
+
+Indicative Mood
+
+       PRESENT (Simple or habitual)
+
+    _Active_               _Passive_
+    I take                 I am taken
+    You take               You are taken
+    He takes               He is taken
+    We take                We are taken
+
+      PRESENT (Progressive or definite)
+
+    I am taking            I am being taken
+
+               PAST (Simple)
+
+    I took                 I was taken
+
+       PAST (Progressive or definite)
+
+    I was taking           I was being taken
+
+              FUTURE (Formal)
+
+    I shall take           I shall be taken
+    You will take          You will be taken
+    He will take           He will be taken
+    We shall take          We shall be taken
+    You will take          You will be taken
+    They will take         They will be taken
+
+             FUTURE (Colloquial)
+
+    I am going to take     I am going to be taken
+    You are going to take  You are going to be taken
+    He is going to take    He is going to be taken
+    We are going to take   We are going to be taken
+
+           PRESENT PERFECT (Simple)
+
+    I have taken           I have been taken
+    He has taken           He has been taken
+    We have taken          We have been taken
+
+      PRESENT PERFECT (Progressive or definite)
+
+    I have been taking     (Wanting)
+
+            PAST PERFECT (Simple)
+
+    I had taken            I had been taken
+
+      PAST PERFECT (Progressive or definite)
+
+    I had been taking      (Wanting)
+
+              FUTURE PERFECT
+
+    I shall have taken     I shall have been taken
+
+        COLLOQUIAL PASSIVE WITH _GET_
+
+    PRESENT                It is getting broken
+    PAST                   It got broken
+    FUTURE                 It will get broken
+
+
+Subjunctive Mood
+
+                 PRESENT
+
+    _Active_               _Passive_
+
+    I may take             I may be taken
+    I can take             I can be taken
+    I must take            I must be taken
+
+                  PAST
+
+    I might take           I might be taken
+    I should take          I should be taken
+    He would take          He would be taken
+    I could take           I could be taken
+
+
+Conjugation of _Be_
+
+_Be_ is an extremely irregular composite verb. It is made up of three
+verbs, _is_ (_am_, _are_, _art_), _be_, and _was_ (_were_).
+
+
+Indicative
+
+    _Present_              _Past_
+
+    I am                   I was
+    You are                You were
+    He is                  He was
+    We are                 We were
+    You are                You were
+    They are               They were
+
+
+Subjunctive
+
+    _Present_               _Past_
+
+    I be                    I were
+    You be                  You were
+    He be                   He were
+    We be                   We were
+    You be                  You were
+    They be                 They were
+
+
+
+
+CHAPTER VII
+
+SENTENCE CORRECTNESS
+
+
+The language spoken and written by educated persons and by trained
+writers in all parts of the English-speaking world has certain forms and
+usages to which everyone must conform if he wishes to be recognized as
+a well-educated man or woman. Conformity to the word-forms and to the
+sentence structure of this widespread language is called correctness.
+
+=300. Use the nominative case for the subject of every finite verb. _I_,
+_thou_, _he_, _she_, _we_, _they_, _who_, are nominatives.=
+
+  _Wrong._ Him and I graduated last year.
+
+  _Right._ He and I graduated last year.
+
+  _Revise._ Us and her went by ourselves.
+
+=301. Use the nominative form _who_ for the subject, even if a
+parenthetical _he says_, _he thinks_, etc., intervenes between subject
+and verb.=
+
+  _Wrong._ She was the teacher whom we thought had seen us.
+
+  _Right._ She was the teacher who we thought had seen us.
+
+  _Revise._ He whom everybody thought would win the prize came
+    out second.
+
+=302. Use the nominative forms _who_, _whoever_ for the subject of a
+subordinate clause, even if a verb or a preposition immediately precedes
+_who_, _whoever_.=
+
+  _Wrong._ I shall believe whomever has the best argument.
+
+  _Right._ I shall believe whoever has the best argument.
+
+  _Wrong._ A reward was offered to whomever returned the lost
+    book.
+
+  _Right._ A reward was offered to whoever returned the lost book.
+
+  _Revise._ The decision as to whom should be punished no longer
+    rests with me.
+
+=303. Use the nominative case for a predicated pronoun after _is_, _are_,
+_was_, _were_, etc.=
+
+  _Wrong._ It was me.
+
+  _Right._ It was I.
+
+  _Wrong._ The best friends I have are her and him.
+
+  _Right._ The best friends I have are she and he.
+
+  _Revise._ It is not whom you think it is.
+
+=304. Put a pronoun used as an appositive into the same case as the noun
+with which it is in apposition.=
+
+  _Wrong._ Let’s you and I go.
+
+  _Right._ Let’s you and me go.
+
+  _Wrong._ The principal called in several pupils, Jack and Mary
+    and I.
+
+  _Right._ The principal called in several pupils, Jack and Mary
+    and me.
+
+  _Revise._ For whom did you ask—they and she?
+
+=305. After the conjunctions _as_ and _than_, put the pronoun into the
+same case as that of the noun or pronoun with which the comparison is
+made. (Exception: The form _whom_ is usually used after _than_.)=
+
+  _Wrong._ He swims better than me.
+
+  _Right._ He swims better than I.
+
+  _Wrong._ She is as rich as him.
+
+  _Right._ She is as rich as he.
+
+  _Wrong._ It improved him more than I.
+
+  _Right._ It improved him more than me.
+
+  _Right._ He is a student than whom there is none better.
+
+  _Revise._ I like him better than she.
+
+=306. Use the possessive case of a noun or pronoun with a gerund.=
+
+  _Wrong._ I am tired of you going away like this.
+
+  _Right._ I am tired of your going away like this.
+
+  _Wrong._ Had you not heard of him being ill?
+
+  _Right._ Had you not heard of his being ill?
+
+  _Revise._ I will not consider Henry leaving.
+
+  _Revise._ Too much attention was paid to Ethel being rewarded.
+
+=307. Put only nouns indicating persons or animate beings into the
+possessive case.=
+
+  _Wrong._ Biography is history’s most interesting part.
+
+  _Right._ Biography is the most interesting part of history.
+
+  _Revise._ His striking appearance held the class’s attention.
+
+=308. Use the objective case of a pronoun which is the object of a verb
+or of a preposition.=
+
+  _Wrong._ My father decided that the farm was the best place for
+    my brother and I.
+
+  _Right._ My father decided that the farm was the best place for
+    my brother and me.
+
+  _Revise._ Most of we girls are studying household art.
+
+=309. Use the objective case of a pronoun which is the subject of an
+infinitive after a verb of _saying_, _thinking_, _permitting_, etc.=
+
+  _Wrong._ Our parents let my sister and I drive the horse.
+
+  _Right._ Our parents let my sister and me drive the horse.
+
+  _Revise._ Who do you want to be captain?
+
+=310. Use the objective case of a pronoun which is predicated after _to
+be_, _to have been_, used with a verb of _saying_, _thinking_, etc.=
+
+  _Wrong._ He thought it to be we.
+
+  _Right._ He thought it to be us.
+
+  _Wrong._ They believed her to have been I.
+
+  _Right._ They believed her to have been me.
+
+  _Revise._ We wished it to be they.
+
+=311. Use _this kind of_, _that kind of_, _this sort of_, even if
+followed by a plural noun.=
+
+  _Wrong._ You cannot use those sort of films.
+
+  _Right._ You cannot use that sort of films.
+
+  _Revise._ Did you ever see these kind of instruments?
+
+=312. Refer a singular pronoun to a singular antecedent.=
+
+  _Wrong._ He carefully crated and boxed the seed to stand
+    weathering, and shipped them to India.
+
+  _Right._ He carefully crated and boxed the seed to stand
+    weathering, and shipped it to India.
+
+  _Wrong._ Everyone did justice to their appetite.
+
+  _Right._ Everyone did justice to his appetite.
+
+  _Revise._ One can tell when they come to these villages because
+    of the smell of the cod.
+
+=313. Make the verb agree with its subject.=
+
+  _Wrong._ The first five years of my life was spent here.
+
+  _Right._ The first five years of my life were spent here.
+
+  _Revise._ Magazines, especially the _American_, is what I enjoy
+    reading.
+
+=314. Make the verb agree with its subject. _Each_, _each one_, _every_,
+_everyone_, _everybody_, _anyone_, _anybody_, _either_, _neither_,
+_none_, _no one_, _nobody_, are singular.=
+
+  _Wrong._ Neither of these treat the subject thoroughly.
+
+  _Right._ Neither of these treats the subject thoroughly.
+
+  _Wrong._ Oh, how I wanted a bicycle. Everyone either got one or
+    were going to get one.
+
+  _Right._ Oh, how I wanted a bicycle. Everyone either got one or
+    was going to get one.
+
+  _Revise._ For that reason almost everybody there get sleepy.
+
+=315. Make the verb agree with its subject. Two or more singular nouns
+joined by _and_ form a plural subject.=
+
+  _Wrong._ Across the street is the engineering building and the
+    university heating plant.
+
+  _Right._ Across the street are the engineering building and the
+    university heating plant.
+
+  _Revise._ Both the plot and the style was very good.
+
+=316. Make the verb agree with its subject. Singular nouns or pronouns
+joined by _or_ or _nor_ form a singular subject.=
+
+  _Wrong._ Clarabell or Sue are going.
+
+  _Right._ Clarabell or Sue is going.
+
+  _Wrong._ Neither Henry nor Herbert were well treated.
+
+  _Right._ Neither Henry nor Herbert was well treated.
+
+  _Revise._ Either the captain or the sergeant have made a
+    mistake.
+
+=317. Make the verb agree with its subject. A collective noun requires a
+singular verb if the group is regarded as a unit, a plural verb if it is
+regarded as a collection of individuals.=
+
+  _Wrong._ She drills us on a lesson until she is sure the class
+    are familiar with everything in each assignment.
+
+  _Right._ She drills us on a lesson until she is sure the class
+    is familiar with everything in each assignment.
+
+  _Wrong._ Sometimes when some member of the class makes a
+    mistake in his speech, the rest of the class laugh and talk
+    about it.
+
+  _Right._ Sometimes when some member of the class makes a
+    mistake in his speech, the rest of the class laughs and talks
+    about it.
+
+  _Revise._ Another committee, known as the advisory committee,
+    is composed of one member from each district, and are chosen by
+    the board of the district bank represented.
+
+=318. Make the verb agree with its subject. An intervening noun must not
+attract the verb into a different form.=
+
+  _Wrong._ The number of bearings in a car vary.
+
+  _Right._ The number of bearings in a car varies.
+
+  _Wrong._ The grounds upon which the building stands consists of
+    half a city block.
+
+  _Right._ The grounds upon which the building stands consist of
+    half a city block.
+
+  _Revise._ A copy of the orders are also sent to the checker.
+
+=319. Make the verb agree with its subject. _There is_ and _there are_
+must agree with the subject which follows.=
+
+  _Wrong._ There is always a few minutes now and then for reading
+    newspapers.
+
+  _Right._ There are always a few minutes now and then for
+    reading newspapers.
+
+  _Revise._ As I think of my subject there seems to be many
+    phases open for investigation.
+
+=320. Make the verb agree with its subject. Phrases introduced by
+_besides_, _with_, _together with_, _accompanied by_, _including_, _as
+well as_, do not affect the number of the verb.=
+
+  _Wrong._ The major, as well as all the lieutenants, were soon
+    out in the open.
+
+  _Right._ The major, as well as all the lieutenants, was soon
+    out in the open.
+
+  _Wrong._ Mary, together with Florence, Mabel, and Pearl, are
+    going to be there.
+
+  _Right._ Mary, together with Florence, Mabel, and Pearl, is
+    going to be there.
+
+  _Revise._ The whole army, including the Fifth and Seventh
+    corps, have received orders to entrain.
+
+=321. Make the verb agree with its subject. If both singular and plural
+substantives joined by _or_ or _nor_ make up the subject, the number of
+the verb depends upon that of the nearest substantive.=
+
+  _Wrong._ Neither the directors nor the president are in
+    sympathy with the proposal.
+
+  _Right._ Neither the directors nor the president is in sympathy
+    with the proposal.
+
+  _Revise._ The rodmill or the furnaces goes on double turn today.
+
+=322. Make the verb agree with its subject. Verbs used with _who_,
+_which_, _that_, must agree in person and number with the antecedent of
+the pronoun.=
+
+  _Wrong._ Each man and woman who were present came away
+    disgruntled.
+
+  _Right._ Each man and woman who was present came away
+    disgruntled.
+
+  _Revise._ These horses that stands here are not for sale.
+
+=323. Make the verb agree with its subject—not with a predicated noun or
+nouns.=
+
+  _Wrong._ The type of literature I enjoy are books of travel.
+
+  _Right._ The type of literature I enjoy is books of travel.
+
+  _Revise._ Another group of novels I have read are _Main
+    Street_, _The Bright Shawl_, and _If Winter Comes_.
+
+=324. Make the verb agree with its subject. The form _don’t_ is correct
+in the first and second persons singular and in all persons plural. The
+form _doesn’t_ is the only correct form in the third person singular.=
+
+  _Wrong._ He don’t seem to know us.
+
+  _Right._ He doesn’t seem to know us.
+
+  _Revise._ The majority don’t think.
+
+=325. Distinguish between the past tense and the past participle of
+irregular verbs.=
+
+    _Present_          _Past_             _Past Participle_
+
+    He begins         he began             he has begun
+    He blows          he blew              he has blown
+    It breaks         it broke             it has broken
+    He comes          he came              he has come
+    He does           he did               he has done
+    He draws          he drew              he has drawn
+    He drinks         he drank             he has drunk
+    He drives         he drove             he has driven
+    He eats           he ate               he has eaten
+    He falls          he fell              he has fallen
+    He flies          he flew              he has flown
+    It freezes        it froze             it has frozen
+    It grows          it grew              it has grown
+    He goes           he went              he has gone
+    He knows          he knew              he has known
+    He rides          he rode              he has ridden
+    It rings          it rang              it has rung
+    It rises          it rose              it has risen
+    He runs           he ran               he has run
+    He sees           he saw               he has seen
+    It shakes         it shook             it has shaken
+    It shrinks        it shrank            it has shrunk
+    He sings          he sang              he has sung
+    He speaks         he spoke             he has spoken
+    He steals         he stole             he has stolen
+    He swims          he swam              he has swum
+    He takes          he took              he has taken
+    It tears          it tore              it has torn
+    He throws         he threw             he has thrown
+
+  _Revise._
+
+    I wonder what he has did?
+
+    Have you saw him?
+
+    He has ran the car into the ditch.
+
+=326. Use the correct past tense or past participle of the following
+verbs—not the illiterate form.=
+
+    _Present_           _Past_            _Past Participle_
+
+    It bursts         it burst             it has burst
+    He catches        he caught            he has caught
+    He dives          he dived             he has dived
+    He drags          he dragged           he has dragged
+    He draws          he drew              he has drawn
+    He drowns         he drowned           he has drowned
+    He eats           he ate               he has eaten
+    He grows          he grew              he has grown
+    He holds          he held              he has held
+    He knows          he knew              he has known
+    He leads          he led               he has led
+    He proves         he proved            he has proved
+    He shows          he showed            he has shown
+    He swears         he swore             he has sworn
+    He throws         he threw             he has thrown
+    He ought          he ought             (_Had ought_ is not
+                                             in good usage)
+
+  _Revise._
+
+    What has she ate.
+
+    I drug it three yards.
+
+    I drawed him out.
+
+    He drownded last week.
+
+=327. Distinguish between _lie_ and _lay_, _sit_ and _set_, _rise_ and
+_raise_.=
+
+  _Wrong._ He laid in the hammock all morning.
+
+  _Right._ He lay in the hammock all morning.
+
+  _Wrong._ All right, set there, then.
+
+  _Right._ All right, sit there, then.
+
+  _Wrong._ We all raised up and shouted.
+
+  _Right._ We all rose up and shouted.
+
+  _Revise._ I laid on the couch while the rest of them set around
+    waiting for me to raise up and tell them to go home.
+
+=328. Use _shall_ in the first person, _will_ in the second and third, to
+express simple futurity.=
+
+  _Wrong._ I feel that I have had more military training than I
+    will get here in the university.
+
+  _Right._ I feel that I have had more military training than I
+    shall get here in the university.
+
+  _Wrong._ You shall fail unless you get to work.
+
+  _Right._ You will fail unless you get to work.
+
+  _Revise._ He shall never be found if we do not hurry.
+
+=329. Use _should_ in the first person, _would_ in the second and third,
+to express relative futurity.=
+
+  _Wrong._ I would like to give it to you.
+
+  _Right._ I should like to give it to you.
+
+  _Wrong._ He should be glad to help you, I’m sure.
+
+  _Right._ He would be glad to help you, I’m sure.
+
+  _Revise._ You shouldn’t do that, should you?
+
+=330. In questions, use _shall_ in the first person. In the second and
+third persons, use that auxiliary which will be correctly used in the
+answer.=
+
+  _Wrong._ Will I help you?
+
+  _Right._ Shall I help you?
+
+  _Wrong._ Will you be at home tonight?
+
+  _Right._ Shall you be at home tonight?
+
+  _Revise._ Shall she be asked?
+
+=331. To express determination on the part of the speaker, use _will_ in
+the first person, _shall_ in the second and third persons.=
+
+  _Wrong._ He will tell you; I am determined.
+
+  _Right._ He shall tell you; I am determined.
+
+  _Wrong._ You will go; I have decided.
+
+  _Right._ You shall go; I have decided.
+
+  _Revise._ I shall do it; nobody can prevent me.
+
+=332. Make the tenses of parallel verbs conform to one another.=
+
+  _Wrong._ I would go down to the library every Saturday and
+    there I got a book about radio.
+
+  _Right._ I would go down to the library every Saturday and
+    there I would get a book about radio.
+
+  _Revise._ I traveled all over the state until I had seen
+    everything or until I became tired.
+
+=333. Use the present tense for assertions that are universally true.=
+
+  _Wrong._ Mars was the most nearly red of all the planets.
+
+  _Right._ Mars is the most nearly red of all the planets.
+
+  _Revise._ The earth was eight thousand miles in diameter.
+
+=334. Make the tense of a verb in a subordinate clause relative to that
+of the verb in the main clause.=
+
+  _Wrong._ I also read new, popular novels that I would find in
+    the public library.
+
+  _Right._ I also read new, popular novels that I found in the
+    public library.
+
+  _Revise._ I probably would never have read such low, vulgar
+    stuff if it were not for the war.
+
+=335. Use the present tense of the infinitive unless its action is
+earlier than that of the main verb.=
+
+  _Wrong._ It was wrong for you to have gone.
+
+  _Right._ It was wrong for you to go.
+
+  _Wrong._ I ought to answer before that had happened.
+
+  _Right._ I ought to have answered before that had happened.
+
+  _Revise._ I intended to have told you.
+
+=336. Use an adverb of time to show that the subordinate clause differs
+in time from the main clause.=
+
+  _Wrong._ The reason for the fertility of Iowa farm land is that
+    an ice sheet spread over almost the entire area of the state.
+
+  _Right._ The reason for the fertility of Iowa farm land is that
+    an ice sheet once spread over almost the entire area of the
+    state.
+
+  _Revise._ One little corner of Iowa contains many steep hills
+    because the ice did not reach it.
+
+=337. Use the subjunctive mood in contrary to fact conditions.=
+
+  _Wrong._ If I was you, I should not do that.
+
+  _Right._ If I were you, I should not do that.
+
+  _Revise._ If he was not ill, he might win today.
+
+=338. Use _have_, the correct auxiliary, not _of_, carelessly written for
+the unaccented _have_.=
+
+  _Wrong._ You should of seen him run.
+
+  _Right._ You should have seen him run.
+
+  _Revise._ If it had not rained today, we might of gone away.
+
+=339. _Had ought_ and _hadn’t ought_ are not standard English; _ought_
+has no past participle and no past perfect tense.=
+
+  _Wrong._ You hadn’t ought to have come so soon.
+
+  _Right._ You ought not to have come so soon.
+
+  _Revise._ I had ought to have told you but I didn’t have the
+    courage.
+
+=340. Make a complete sentence out of a fragment carelessly punctuated as
+if it were a sentence.=
+
+  _Wrong._ I took time to make friends and eventually enjoyed
+    myself in the same way as any other little girl. My favorite
+    sport being skating.
+
+  _Right._ I took time to make friends and eventually enjoyed
+    myself in the same way as any other little girl. My favorite
+    sport was skating.
+
+  _Revise._ At seven o’clock every morning I hear the faint
+    tinkling of a bell which soon becomes an insistent ring,
+    and another day has begun. Then a dash down the cold stairs
+    followed by a hurried wash, then down to breakfast.
+
+=341. Attach a phrase, carelessly punctuated as if it were a sentence, to
+the sentence to which it belongs.=
+
+  _Wrong._ This was placed in a chemical solution, called
+    developer, for fifteen or twenty minutes. Sometimes even longer.
+
+  _Right._ This was placed in a chemical solution, called
+    developer, for fifteen or twenty minutes, and sometimes even
+    longer.
+
+  _Revise._ My office hours were unlimited during the summer
+    months. Usually from seven in the morning until after six
+    o’clock at night on week days.
+
+=342. Attach a participial phrase, carelessly punctuated as if it were a
+sentence, to the sentence to which it belongs.=
+
+  _Wrong._ We arrived on the peak before sunrise. This being the
+    best time to arrive.
+
+  _Right._ We arrived on the peak before sunrise, this being the
+    best time.
+
+  _Revise._ Asher won the mile in 4:32. Thus breaking the record.
+
+=343. Attach a subordinate clause, carelessly punctuated as if it were a
+sentence, to the sentence to which it belongs.=
+
+  _Wrong._ Soon after it is plowed. It should be harrowed several
+    times in order to crush out all the lumps of dirt.
+
+  _Right._ Soon after it is plowed it should be harrowed several
+    times in order to crush out all the lumps of dirt.
+
+  _Revise._ When the grain is dry enough to be threshed. The
+    owner issues invitations for a threshing bee.
+
+=344. Attach part of a compound subject, carelessly punctuated as if it
+were a sentence, to the sentence to which it belongs.=
+
+  _Wrong._ John, wearing a straw hat. Then his brother, garbed in
+    a dress suit, entered the hall.
+
+  _Right._ John, wearing a straw hat, followed by his brother,
+    garbed in a dress suit, entered the hall.
+
+  _Revise._ The memorial stadium and the chemistry building. The
+    new administration building and the women’s gymnasium have all
+    been built since 1910.
+
+=345. Attach part of a compound predicate, carelessly punctuated as if it
+were a sentence, to the sentence to which it belongs.=
+
+  _Wrong._ The beacon flared. And lighted up the darkness for
+    miles.
+
+  _Right._ The beacon flared and lighted up the darkness for
+    miles.
+
+  _Revise._ Who has ever heard of Dolliver? Much less has ever
+    been there.
+
+=346. Complete a construction begun but left unfinished.=
+
+  _Wrong._ They rediscount notes which arise out of and the
+    proceeds of which are employed for agricultural, industrial,
+    and commercial purposes.
+
+  _Right._ They rediscount notes which arise out of agricultural,
+    industrial, and commercial transactions and employ the proceeds
+    in similar transactions.
+
+  _Revise._ Anybody who could design an engine like that, the
+    largest automobile manufacturers in the country would compete
+    for his services.
+
+=347. Give every finite verb a subject.=
+
+  _Wrong._ It has been about fifteen months since I left high
+    school, and have not done any studying since.
+
+  _Right._ It has been about fifteen months since I left high
+    school, and I have not done any studying since.
+
+  _Revise._ The town has not yet built a very large high school
+    building, because there are not enough citizens to defray the
+    expense and have not yet been able to obtain the co-operation
+    of the farmers.
+
+=348. Insert a word or words which have been carelessly omitted.=
+
+  _Wrong._ Their complexion is a reddish color.
+
+  _Right._ Their complexion is of a reddish color.
+
+  _Wrong._ Hundreds of small creeks were constructed by the
+    association, for the benefit of an individual.
+
+  _Right._ Hundreds of small creeks were constructed by the
+    association, each for the benefit of an individual.
+
+  _Revise._ I consider him my favorite poet not because of his
+    style but of the feeling in his verse.
+
+=349. Insert material necessary to make evident what is implied.=
+
+  _Wrong._ Mr. T.’s method of teaching is stimulating, but
+    his lack of the English language makes him an undesirable
+    instructor.
+
+  _Right._ Mr. T.’s method of teaching is stimulating, but
+    his lack of knowledge of the English language makes him an
+    undesirable instructor.
+
+  _Revise._ Douglas Fairbanks is truer to life than the book.
+
+=350. Give every sentence element some grammatical construction.=
+
+  _Wrong._ In my American literature class the instructor thought
+    that it was essential for us to study, at least once a week,
+    that had to do with current happenings.
+
+  _Right._ In my American literature class the instructor thought
+    that it was essential for us to study, at least once a week,
+    something that had to do with current happenings.
+
+  _Revise._ You should select the ears that have medium-sized
+    kernels and filled out well at each end.
+
+=351. Use _that_ to introduce noun clauses after verbs of _saying_,
+_thinking_, or _feeling_, unless the construction is obvious.=
+
+  _Wrong._ I have decided the topic for my long theme will be
+    _Prehistoric Man_.
+
+  _Right._ I have decided that the topic for my long theme will
+    be _Prehistoric Man_.
+
+  _Revise._ Father felt a secondhand car was beneath our dignity.
+
+=352. Make the comparison accurate by inserting a demonstrative pronoun:
+_that of_, _those of_, _these which_, etc.=
+
+  _Wrong._ Our condition is far better than the students of the
+    East.
+
+  _Right._ Our condition is far better than that of the students
+    of the East.
+
+  _Revise._ The history of the Book of Mormon is very much like
+    the Bible.
+
+=353. Insert _as_ after the positive of an adjective or an adverb when it
+is followed by a conjunction and the comparative with _than_.=
+
+  _Wrong._ I am at least as tall or a little taller than anyone
+    in the first squad.
+
+  _Right._ I am at least as tall as, or a little taller than,
+    anyone in the first squad.
+
+  _Revise._ I enjoy biography as well if not better than fiction.
+
+=354. Insert _much_ or _greatly_ between _very_ and a past participle.=
+
+  _Wrong._ I was very disappointed.
+
+  _Right._ I was very much disappointed.
+
+  _Revise._ His table manners showed that they had been very
+    neglected up to the time we took him in hand.
+
+=355. Repeat the verb in a different person or number if necessary to
+make it agree with the second of two alternative subjects.=
+
+  _Wrong._ Either he or I goes.
+
+  _Right._ Either he goes or I go.
+
+  _Revise._ If he or I win the pole vault, Petersham will finish
+    among the first three in the meet.
+
+=356. Repeat the auxiliary verb if necessary to make it agree with a
+second subject in a different person or number.=
+
+  _Wrong._ Whether you or Jim is elected makes no difference to
+    me.
+
+  _Right._ Whether you are elected or Jim is, makes no difference
+    to me.
+
+  _Revise._ If you or any other student is caught cheating it
+    means just one thing—expulsion of the guilty person.
+
+=357. Repeat _is_, _are_, _was_, _were_, etc., if the verb is used both
+as a copula and as an auxiliary.=
+
+  _Wrong._ Their government was rude and founded solely upon
+    custom.
+
+  _Right._ Their government was rude and was founded solely upon
+    custom.
+
+  _Revise._ Our house is small and built to live in.
+
+=358. Use the correct form of the verb after each of two auxiliaries
+which require two different forms.=
+
+  _Wrong._ I have always and always shall like cowboy stories.
+
+  _Right._ I have always liked and always shall like cowboy
+    stories.
+
+  _Revise._ I hope I may in the future, as I have always in
+    the past, play fair, whatever may be the provocation to do
+    otherwise.
+
+=359. Use the correct conjunction, _though_ or _but_ rather than _while_;
+_as soon as_ rather than _immediately_; _if_ rather than _so_.=
+
+  _Wrong._ Immediately I received the telegram I went home.
+
+  _Right._ As soon as I received the telegram I went home.
+
+  _Wrong._ It was in the latter part of my high school days when
+    I did most of my reading.
+
+  _Right._ It was in the latter part of my high school days that
+    I did most of my reading.
+
+  _Revise._ I had not gone to school long until it burned down.
+
+=360. Use a transitional word, phrase, or clause to carry the reader from
+one unrelated idea to another.=
+
+  _Wrong._ I wanted to be popular; how could I start?
+
+  _Right._ I wanted to be popular, but the question was, how
+    could I start.
+
+  _Revise._ Officers will be elected, and a good attendance is
+    desired.
+
+=361. Avoid shifting from one construction to another.=
+
+  _Wrong._ Consider the football season just ended, Merrill did
+    more for the success of the team than any other captain Ohio
+    ever had.
+
+  _Right._ In the football season just ended Merrill did more for
+    the success of the team than any other captain Ohio ever had.
+
+  _Revise._ I enjoyed the freshman year with its essays and
+    themes, since it proved to be a subject which I did not find
+    difficult.
+
+=362. In the formula _one of the most ... if not the most ..._ put the
+noun in the first element of the formula.=
+
+  _Wrong._ It was one of the slowest if not the slowest game ever
+    played on the Oval.
+
+  _Right._ It was one of the slowest games, if not the slowest,
+    ever played on the Oval.
+
+  _Revise._ As a statesman he deserves to rank as one of the
+    most, if not the most, contemptible figures in our history.
+
+=363. Phrase the subject so that it exactly fits the predication required
+by the verb.=
+
+  _Wrong._ Mr. Swinnerton’s novel, _Nocturne_, takes place in one
+    night.
+
+  _Right._ The action in Mr. Swinnerton’s novel, _Nocturne_,
+    takes place in one night.
+
+  _Revise._ The character of Mr. Pickwick is a funny creature.
+
+=364. Use the precise verb which is idiomatically required to predicate
+the subject.=
+
+  _Wrong._ Only one hour of relaxation existed for the noon meal.
+
+  _Right._ Only one hour of relaxation was allowed for the noon
+    meal.
+
+  _Revise._ The freshman lecture last week consisted of four
+   
