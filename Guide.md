@@ -1,6 +1,6 @@
 이야기 생성에 필요한 맥락은 [References] cr-project-web 디렉토리 안에 있어. 이 프로젝트의 기획자가 이 프로젝트를 현실화, 대중화하기 위해 이야기가 필요하다고 판단했고, 너에게 이야기 생성을 요청하는 거야. 이 프로젝트 기획자의 기획의도, 맥락을 이해한 상태에서 이야기를 만들어줘. 
 
-이야기 분량은 단편 분량(5,000~8,000자 정도)으로 총 100개의 서로 다른 이야기를 생성하면 될 거야. 이야기의 재료나 참고자료는 [References] meterials 에 담겨 있어. 이야기 작법은 [References] All about Stroytelling 안에 담겨있어. 각 평론가의 조언을 따라 다양한 방식으로 이야기를 만들면 되는 거야. 특별히 평론가M(All about Stroytelling_by critic M.md)과 평론가C(All about Stroytelling_by critic c.md), 평론가P(All about Stroytelling_by critic P.md)의 문서를 집중적으로 활용하면 좋을 거야. 생성한 이야기는 깃허브 https://github.com/gamnamu1/cr-lab-stroytelling에 브랜치를 생성해주면 좋겠어.
+이야기 분량은 단편 분량(9,000~10,000자 정도)으로 총 100개의 서로 다른 이야기를 생성하면 될 거야. 이야기의 재료나 참고자료는 [References] meterials 에 담겨 있어. 이야기 작법은 [References] All about Stroytelling 안에 담겨있어. 각 평론가의 조언을 따라 다양한 방식으로 이야기를 만들면 되는 거야. 특별히 평론가M(All about Stroytelling_by critic M.md)과 평론가C(All about Stroytelling_by critic c.md), 평론가P(All about Stroytelling_by critic P.md)의 문서를 집중적으로 활용하면 좋을 거야. 생성한 이야기는 깃허브 https://github.com/gamnamu1/cr-lab-stroytelling에 브랜치를 생성해주면 좋겠어.
 
 작업 방식은 아래와 같아.
 
